@@ -1,6 +1,5 @@
 <?php
-  echo "Hello World!";
-  echo "PHP is so easy!";
+  echo "EN CONSTRUCCIÓN";
 ?>
 
 echo phpinfo();
