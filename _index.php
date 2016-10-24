@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Clinico - Responsive Medical and Health Template</title>
-		
+
 		<!-- metas -->
 		<meta charset="utf-8">
 		<meta name="author" content="http://themeforest.net/user/CreativeWS/portfolio">
@@ -10,7 +10,7 @@
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 		<!--/ metas -->
-		
+
 		<!-- styles -->
 		<link rel="stylesheet" type="text/css" href="css/layerslider.css">
 		<link rel="stylesheet" type="text/css" href="css/fullwidth/skin.css">
@@ -19,12 +19,12 @@
 		<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css">
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 		<link rel="stylesheet" type="text/css" href="css/color-blue.css">
-		
+
 		<!--/ styles -->
-		
+
 		<!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
 	</head>
-	
+
 	<body>
 		<div class="page">
 
@@ -39,7 +39,7 @@
 							</div>
 						</section>
 						<!--/ logo -->
-						
+
 						<!-- main nav -->
 						<nav class="main-nav">
 							<ul>
@@ -143,7 +143,7 @@
 							</ul>
 						</nav>
 						<!--/ main nav -->
-						
+
 						<!-- mobile nav -->
 						<nav id="mobile-main-nav" class="mobile-main-nav">
 							<i class="fa fa-bars"></i><a href="#" class="opener">Navigation</a>
@@ -252,14 +252,14 @@
 				</div>
 			</header>
 			<!--/ page header -->
-			
+
 			<!-- quick search -->
 			<form id="quick-search" class="quick-search">
 				<fieldset>
 					<legend>Quick Search:</legend>
-					
+
 					<input type="text" placeholder="Search by name" id="docname" name="docname" class="ui-autocomplete-input" autocomplete="off">
-					
+
 					<select>
 						<option value="0">Speciality</option>
 						<option value="1">Ophthomologist</option>
@@ -267,7 +267,7 @@
 						<option value="3">Neorologist</option>
 						<option value="4">Surgeon</option>
 					</select>
-					
+
 					<select>
 						<option value="0">Locations</option>
 						<option value="1">Primary Health Care</option>
@@ -276,21 +276,21 @@
 						<option value="4">Cardiac Clinic</option>
 						<option value="5">General Surgery</option>
 					</select>
-					
+
 					<button type="submit">Search</button>
 					<div class="switcher">
 						<button id="quick-search-switcher" type="button">Find a doctor</button>
 					</div>
-				</fieldset>				
+				</fieldset>
 			</form>
 			<!--/ quick search -->
 
 			<!-- slider -->
 			<div class="slider-wrapper">
 				<section class="slider" id="slider">
-					<div class="ls-slide" data-ls="transition2d:9;slidedelay:7000;">					
+					<div class="ls-slide" data-ls="transition2d:9;slidedelay:7000;">
 						<img src="pic/medical-slide-1.jpg" alt="" class="ls-bg">
-						
+
 						<div class="intro ls-l" data-ls="offsetyin:top;offsetxin:0;durationin:2000;offsetyout:bottom;offsetxout:0;durationout:1000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-heart"></span>
 							<h2><span>SYMPTOM</span>CHECKER</h2>
@@ -302,9 +302,9 @@
 							</div>
 						</div>
 					</div>
-					<div class="ls-slide" data-ls="transition2d:40;slidedelay:7000;">				
+					<div class="ls-slide" data-ls="transition2d:40;slidedelay:7000;">
 						<img src="pic/medical-slide-2.jpg" alt="" class="ls-bg">
-						
+
 						<div class="intro ls-l" data-ls="scalexin:0.3;scaleyin:0.3;rotatexin:180;offsetxin:0;durationin:2000;durationout:2000;scalexout:2;scaleyout:2;offsetxout:0;fadeout:true;showuntil:3000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-comments"></span>
 							<h2><span>HELP</span>ONLINE</h2>
@@ -318,7 +318,7 @@
 					</div>
 					<div class="ls-slide" data-ls="transition2d:11;slidedelay:7000;">
 						<img src="pic/medical-slide-3.jpg" alt="" class="ls-bg">
-						
+
 						<div class="intro ls-l" data-ls="skewxin:30;skewyin:0;offsetxin:right;fadein:false;durationin:2000;durationout:1000;offsetxout:right;offsetyout:0;fadeout:true;" style="left:80%;top:35%;">
 							<span class="icon fa fa-flask"></span>
 							<h2><span>LAB</span>TESTING</h2>
@@ -333,7 +333,7 @@
 				</section>
 			</div>
 			<!--/ slider -->
-			
+
 			<!-- page content -->
 			<main class="page-content">
 				<div class="grid-row">
@@ -376,44 +376,44 @@
 					</section>
 					<!--/ benefits -->
 				</div>
-				
+
 				<div class="grid-row">
 					<!-- services -->
 					<section class="services">
 						<ul>
 							<li>
 								<a class="pic"><i class="fa fa-leaf"></i></a>
-								<h2><a href="#">Transplant Services</a></h2>
+								<h2><a href="#">Ulstrasonido diagnóstico</a></h2>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin justo non odio molestie, sed venenatis elit laoreet. Cras pharetra dolor vitae malesuada facilisis.</p>
 								<a href="#" class="more fa fa-long-arrow-right"></a>
 							</li>
 							<li>
 								<a class="pic"><i class="fa fa-user-md"></i></a>
 								<div class="text">
-									<h2><a href="#">Qualified Doctors</a></h2>
+									<h2><a href="#">Médicos especialistas</a></h2>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin justo non odio molestie, sed venenatis elit laoreet. Cras pharetra dolor vitae malesuada facilisis.</p>
 									<a href="#" class="more fa fa-long-arrow-right"></a>
 								</div>
 							</li>
 							<li>
 								<a class="pic"><i class="fa fa-clock-o"></i></a>
-								<h2><a href="#">24 Hours Service</a></h2>
+								<h2><a href="#">Información sobre nuestros horarios</a></h2>
 								<p>Mauris consectetur, dui eget ullamcorper hendrerit, eros ligula consectetur dui, vitae adipiscing nunc enim eu justo. Donec quis mollis neque. Pellentesque facilisis.</p>
 								<a href="#" class="more fa fa-long-arrow-right"></a>
 							</li>
 							<li>
 								<a class="pic"><i class="fa fa-ambulance"></i></a>
 								<div class="text">
-									<h2><a href="#">Emergency Departments</a></h2>
+									<h2><a href="#">Contacto</a></h2>
 									<p>Fusce pellentesque lectus quis placerat ultrices. Nunc malesuada est vitae urna laoreet porta. Donec cursus tellus libero, non porttitor felis luctus ut.</p>
 									<a href="#" class="more fa fa-long-arrow-right"></a>
 								</div>
 							</li>
 						</ul>
 					</section>
-					<!--/ services -->	
+					<!--/ services -->
 				</div>
-				
+
 				<div class="grid-row">
 					<!-- doctors carousel -->
 					<section class="widget doctors-carousel doctors">
@@ -535,7 +535,7 @@
 					</section>
 					<!--/ doctors carousel -->
 				</div>
-				
+
 				<div class="grid-row">
 					<div class="grid-col grid-col-4">
 						<!-- departments -->
@@ -558,7 +558,7 @@
 						</section>
 						<!--/ departments -->
 					</div>
-					
+
 					<div class="grid-col grid-col-4">
 						<!-- sevices -->
 						<section class="widget widget-sevices">
@@ -574,7 +574,7 @@
 						</section>
 						<!--/ sevices -->
 					</div>
-					
+
 					<div class="grid-col grid-col-4">
 						<!-- appointment -->
 						<section class="widget widget-appointment">
@@ -611,7 +611,7 @@
 								</fieldset>
 							</form>
 						</section>
-						<!--/ appointment -->	
+						<!--/ appointment -->
 					</div>
 				</div>
 			</main>
@@ -620,7 +620,7 @@
 			<!-- page footer -->
 			<footer class="page-footer">
 				<a href="#" id="top-link" class="top-link"><i class="fa fa-angle-double-up"></i></a>
-				
+
 				<div class="grid-row">
 					<div class="grid-col grid-col-3">
 						<!-- last news -->
@@ -635,7 +635,7 @@
 						</section>
 						<!--/ last news -->
 					</div>
-					
+
 					<div class="grid-col grid-col-3">
 						<!-- location -->
 						<section class="widget-alt location">
@@ -653,9 +653,9 @@
 								<a href="#" class="fa fa-instagram"></a>
 							</nav>
 						</section>
-						<!--/ location -->	
+						<!--/ location -->
 					</div>
-					
+
 					<div class="grid-col grid-col-3">
 						<!-- last news -->
 						<section class="widget-alt recent-posts">
@@ -676,9 +676,9 @@
 								</li>
 							</ul>
 						</section>
-						<!--/ last news -->						
+						<!--/ last news -->
 					</div>
-					
+
 					<div class="grid-col grid-col-3">
 						<!-- work time -->
 						<section class="widget-alt work-time">
@@ -701,18 +701,18 @@
 							</dl>
 							<a href="#" class="button">Make an Appointment</a>
 						</section>
-						<!--/ work time -->							
+						<!--/ work time -->
 					</div>
 				</div>
 			</footer>
 			<!--/ page footer -->
-			
+
 			<!-- copyrights -->
 			<div class="copyrights">Copyrights ©2014: Clinico - Responsive Medical and Health Template</div>
 			<!--/ copyrights -->
 
 		</div>
-		
+
 		<!-- scripts -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery-ui.min.js"></script>
@@ -728,12 +728,12 @@
 		<script type="text/javascript" src="js/layerslider.transitions.js"></script>
 		<script type="text/javascript" src="js/layerslider.kreaturamedia.jquery.js"></script>
 
-	<!-- Superscrollorama -->		
+	<!-- Superscrollorama -->
 		<script type="text/javascript" src="js/jquery.superscrollorama.js"></script>
 		<script type="text/javascript" src="js/TweenMax.min.js"></script>
 		<script type="text/javascript" src="js/TimelineMax.min.js"></script>
 	<!--/ Superscrollorama -->
-	
+
 		<script type="text/javascript" src="js/jquery.ui.core.min.js"></script>
 		<script type="text/javascript" src="js/jquery.ui.widget.min.js"></script>
 		<script type="text/javascript" src="js/jquery.ui.tabs.min.js"></script>
@@ -746,6 +746,6 @@
 		<script type="text/javascript" src="js/jquery.autocomplete.min.js"></script>
 		<script type="text/javascript" src="js/scripts.js"></script>
 		<!--/ scripts -->
-		
+
 	</body>
 </html>
