@@ -279,7 +279,7 @@
 
 					<button type="submit">Search</button>
 					<div class="switcher">
-						<button id="quick-search-switcher" type="button">Find a doctor</button>
+						<button id="quick-search-switcher" type="button">Hacer una cita</button>
 					</div>
 				</fieldset>
 			</form>
@@ -293,11 +293,11 @@
 
 						<div class="intro ls-l" data-ls="offsetyin:top;offsetxin:0;durationin:2000;offsetyout:bottom;offsetxout:0;durationout:1000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-heart"></span>
-							<h2><span>SYMPTOM</span>CHECKER</h2>
-							<p>Vestibulum rutrum luctus porta. Maecenas elit nibh</p>
+							<h2><span>Ultrasonido</span>Obstétrico</h2>
+							<p>Cosas de bebés</p>
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Read More</a><!--
+								--><a href="#" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
@@ -307,11 +307,11 @@
 
 						<div class="intro ls-l" data-ls="scalexin:0.3;scaleyin:0.3;rotatexin:180;offsetxin:0;durationin:2000;durationout:2000;scalexout:2;scaleyout:2;offsetxout:0;fadeout:true;showuntil:3000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-comments"></span>
-							<h2><span>HELP</span>ONLINE</h2>
-							<p>Vestibulum rutrum luctus porta. Maecenas elit nibh</p>
+							<h2><span>Ultrasonido</span>Mamario</h2>
+							<p>Cosas no de bebés</p>
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Read More</a><!--
+								--><a href="#" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
@@ -321,11 +321,11 @@
 
 						<div class="intro ls-l" data-ls="skewxin:30;skewyin:0;offsetxin:right;fadein:false;durationin:2000;durationout:1000;offsetxout:right;offsetyout:0;fadeout:true;" style="left:80%;top:35%;">
 							<span class="icon fa fa-flask"></span>
-							<h2><span>LAB</span>TESTING</h2>
-							<p>Vestibulum rutrum luctus porta. Maecenas elit nibh</p>
+							<h2><span>Ulstrasonido</span>Músculo-esquelético</h2>
+							<p>Cosas de huesos y músculos</p>
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Read More</a><!--
+								--><a href="#" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
@@ -341,13 +341,15 @@
 					<section class="benefits">
 						<ul>
 							<li>
-								<div class="pic"><i class="fa fa-heart"></i></div>
+                <!--fa fa-heart -->
+								<div class="pic"><i class="fa fa-stethoscope"></i></div>
 								<div class="text">
-									<h2>Heart Rate</h2>
-									<p>Aliquam ut lorem scelerisque, consequat mi quis, scelerisque massa.</p>
+									<h2>Ultrasonido médico</h2>
+									<p>Método de imagen no invasivo para el diagnóstico de procesos en diferentes órganos del cuerpo.</p>
 									<a href="#" class="more"></a>
 								</div>
 							</li>
+              <!--
 							<li>
 								<div class="pic"><i class="fa fa-flask"></i></div>
 								<div class="text">
@@ -372,13 +374,15 @@
 									<a href="#" class="more"></a>
 								</div>
 							</li>
+              -->
 						</ul>
 					</section>
 					<!--/ benefits -->
 				</div>
 
 				<div class="grid-row">
-					<!-- services -->
+					<!--
+          SERVICES
 					<section class="services">
 						<ul>
 							<li>
@@ -411,11 +415,12 @@
 							</li>
 						</ul>
 					</section>
-					<!--/ services -->
+					-->
 				</div>
 
+        <!--
 				<div class="grid-row">
-					<!-- doctors carousel -->
+					doctors carousel
 					<section class="widget doctors-carousel doctors">
 						<div class="widget-title">Our Doctors</div>
 						<div id="doctors-carousel" class="owl-carousel">
@@ -533,8 +538,9 @@
 							</div>
 						</div>
 					</section>
-					<!--/ doctors carousel -->
+					doctors carousel
 				</div>
+        -->
 
 				<div class="grid-row">
 					<div class="grid-col grid-col-4">

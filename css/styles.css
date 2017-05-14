@@ -1,11 +1,11 @@
 /*-----------------------------------------------------------------------------------
 
-  Template Name: Clinico - Responsive Medical and Health Template  
+  Template Name: Clinico - Responsive Medical and Health Template
   Template URI: http://themeforest.net/user/CreativeWS/portfolio
   Description: Clinico is a powerful multipurpose responsive template suitable for medical and health related businesses. Its fresh and clean design makes it applicable for corporate websites, personal blogs, product-oriented sites as well.
-  Author: Creative Web Solutions 
+  Author: Creative Web Solutions
   Author URI: http://creaws.com
-  
+
 -----------------------------------------------------------------------------------
 
 -- General
@@ -178,7 +178,7 @@
   }
   .vc_row-fluid [class*="vc_span"]+[class*="vc_span"]{
     margin-top:50px;
-  } 
+  }
 }
 .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a,
 .wpb_content_element .wpb_accordion_header a {
@@ -480,7 +480,7 @@ span.wpb_btn-mini {
     overflow:visible !important;
   }
   .vc_progress_bar.vc_progress_bar_alt .vc_single_bar{
-    margin-bottom:45px !important;   
+    margin-bottom:45px !important;
   }
   .vc_single_bar:last-child,.vc_progress_bar_alt .vc_single_bar:last-child{
     margin-bottom:0 !important;
@@ -664,10 +664,10 @@ a, button {
 p {
   text-indent:2em;
 }
- 
+
 .services p,
 .wpb_accordion p,
-.widget p, 
+.widget p,
 .wpb_tabs p,
 .wpb_toggle_content p,
 .latest-tweets p,
@@ -747,7 +747,7 @@ textarea {
 /**/
 /* buttons */
 /**/
-.button { 
+.button {
   position: relative;
   display: inline-block;
   padding: 11px 21px;
@@ -975,7 +975,7 @@ textarea {
   -o-transition-property: -o-transform, opacity;
   -ms-transition-property: -ms-transform, opacity;
   -moz-transition-property: -moz-transform, opacity;
-  -webkit-transition-property: -webkit-transform, opacity;          
+  -webkit-transition-property: -webkit-transform, opacity;
 }
 .isotope.no-transition,
 .isotope.no-transition .isotope-item,
@@ -1061,13 +1061,13 @@ textarea {
   top: 0;
   left: 0;
   height: 58px;
-  box-shadow: 0 0px 6px #000; 
+  box-shadow: 0 0px 6px #000;
   background: rgba(255,255,255,0.8);
 
   transition: transform 0.6s;
   -ms-transition: -ms-transform 0.6s;
   -moz-transition: -moz-transform 0.6s;
-  -webkit-transition: -webkit-transform 0.6s; 
+  -webkit-transition: -webkit-transform 0.6s;
 
   -webkit-transform: translateY(-110%) translateZ(0);
   -moz-transform: translateY(-110%) translateZ(0);
@@ -1551,7 +1551,7 @@ nav p{
   -o-transition: background 0.3s, color 0.3s;
   -ms-transition: background 0.3s, color 0.3s;
   -moz-transition: background 0.3s, color 0.3s;
-  -webkit-transition: background 0.3s, color 0.3s;  
+  -webkit-transition: background 0.3s, color 0.3s;
 }
 .quick-search button[type="submit"]:hover {
   background: transparent;
@@ -1649,7 +1649,7 @@ nav p{
     background-color:inherit;
     padding-bottom:0;
   }
-  
+
 
 
 }
@@ -1824,7 +1824,7 @@ nav p{
 .benefits li {
   display: inline-block;
   vertical-align: top;
-  width: 25%;
+  width: 100%;
   color: #fff;
 }
 .benefits h2 {
@@ -2109,7 +2109,7 @@ i.pic:after{
   font-size: 14px;
   line-height: 40px;
   text-align: center;
-  color: #fff;  
+  color: #fff;
 }
 .news .pic,
 .news .video {
@@ -2180,7 +2180,7 @@ i.pic:after{
   -o-transition: opacity 0.3s;
   -ms-transition: opacity 0.3s;
   -moz-transition: opacity 0.3s;
-  -webkit-transition: opacity 0.3s; 
+  -webkit-transition: opacity 0.3s;
 }
 .news .links ul {
   position: absolute;
@@ -2402,7 +2402,7 @@ i.pic:after{
   -o-transition: opacity 0.3s;
   -ms-transition: opacity 0.3s;
   -moz-transition: opacity 0.3s;
-  -webkit-transition: opacity 0.3s; 
+  -webkit-transition: opacity 0.3s;
 }
 .photo-tour .links ul {
   position: absolute;
@@ -2544,7 +2544,7 @@ i.pic:after{
   .video.only iframe{
     height:450px;
     margin-bottom:30px;
-  }  
+  }
 }
 
 /* Services Carousel */
@@ -2780,7 +2780,7 @@ div[id^="animating-block"] img{
   }
   #animating-block-8 img{
     width:100%;
-  } 
+  }
 }
 @media screen and (max-width:767px){
   #animating-block-1{
@@ -2952,7 +2952,7 @@ iframe{
   #block-404{
     width:200px;
     height:80px;
-  } 
+  }
 }
 
 
@@ -3131,7 +3131,7 @@ iframe{
     width:100% !important;
     padding-right:0 !important;
     margin-bottom:50px !important;
-  }  
+  }
 }
 
 
@@ -3251,7 +3251,7 @@ iframe{
   -o-transition: opacity 0.3s;
   -ms-transition: opacity 0.3s;
   -moz-transition: opacity 0.3s;
-  -webkit-transition: opacity 0.3s; 
+  -webkit-transition: opacity 0.3s;
 }
 .doctors .links ul {
   position: absolute;
@@ -3474,7 +3474,7 @@ iframe{
   -o-transition: opacity 0.3s;
   -ms-transition: opacity 0.3s;
   -moz-transition: opacity 0.3s;
-  -webkit-transition: opacity 0.3s; 
+  -webkit-transition: opacity 0.3s;
 }
 .doctors-carousel .links ul {
   position: absolute;
@@ -3509,10 +3509,10 @@ iframe{
     display:block;
     width:46px;
     height:46px;
-    box-shadow: 0 0 0 4px rgba(255,255,255,0.5);   
+    box-shadow: 0 0 0 4px rgba(255,255,255,0.5);
     font-size: 18px;
     line-height: 46px;
-  } 
+  }
 
 }
 .doctors-carousel .item {
@@ -4348,7 +4348,7 @@ iframe{
 /**/
 /* buttons */
 /**/
-.wpb_button { 
+.wpb_button {
   position: relative;
   display: inline-block;
   padding: 11px 21px;
@@ -4500,7 +4500,7 @@ iframe{
   line-height: 22px;
   text-align: center;
   text-transform: uppercase;
-  color: #000;  
+  color: #000;
 }
 .wpb_call_to_action .wpb_button:hover, .detailed-services .wpb_button:hover {
   color: #008fd5;
@@ -4508,7 +4508,7 @@ iframe{
 .wpb_call_to_action .wpb_call_text {
   padding-top: 5px;
   font-size: 30px;
-  line-height: 40px;  
+  line-height: 40px;
 }
 
 
@@ -4537,7 +4537,7 @@ iframe{
   height: 250px;
   overflow: hidden;
   font-size: 12px;
-  line-height: 1.2em; 
+  line-height: 1.2em;
 }
 .pieLabel div {
   font-size: 18px !important;
@@ -4630,7 +4630,7 @@ iframe{
 }
 .wpb_alert h1{
   font-size: 18px;
-  line-height: 22px;  
+  line-height: 22px;
 }
 .wpb_alert .messagebox_text p {
   line-height: 20px;
@@ -4717,7 +4717,7 @@ iframe{
   line-height: 110px;
   text-align: center;
   text-shadow: 1px 1px 0 rgba(0,0,0,0.15);
-  color: #fff;  
+  color: #fff;
 }
 .milestone .icon:before {
   content: '';
@@ -4860,7 +4860,7 @@ iframe{
 }
 .pricing-table .col:hover .price {
   text-shadow: 1px 1px 0 rgba(0,0,0,0.15);
-  color: #fff;  
+  color: #fff;
 }
 .pricing-table .col:hover .price .join {
   display: block;
@@ -4965,7 +4965,7 @@ iframe{
   top: 0;
   left: -190px;
   width: 190px;
-  overflow: hidden; 
+  overflow: hidden;
   padding: 0;
   font-size: 16px;
   line-height: 20px;
@@ -5005,7 +5005,7 @@ iframe{
 }
 .vc_progress_bar.vc_progress_bar_alt .vc_single_bar .vc_bar em:after {
   display: none;
-} 
+}
 .vc_progress_bar.vc_progress_bar_alt .vc_single_bar .vc_label {
   left: -170px;
   width: 170px;
@@ -5017,7 +5017,7 @@ iframe{
 /**/
 /* services */
 /**/
-.detailed-services dt { 
+.detailed-services dt {
   position: relative;
   margin-bottom: -1px;
   padding: 11px 38px 11px 61px;
@@ -5073,7 +5073,7 @@ iframe{
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   border-left-width: 4px;
-  border-left-style: solid; 
+  border-left-style: solid;
 }
 .detailed-services dd {
   display: none;
@@ -5159,7 +5159,7 @@ iframe{
   border-right: 0;
 }
 .detailed-services .details li {
-  margin-top: 5px;  
+  margin-top: 5px;
 }
 .detailed-services .details li:first-child {
   margin-top: 0;
@@ -5370,7 +5370,7 @@ iframe{
   position: relative;
   padding: 35px 35px 0;
   border-width: 1px;
-  border-style: solid; 
+  border-style: solid;
   border-bottom: 0;
 }
 .testimonial:after,
@@ -5476,13 +5476,13 @@ iframe{
   display: none;
 }
 .wpb_toggle_content + .wpb_toggle {
-  margin-top: -1px; 
+  margin-top: -1px;
 }
 .wpb_toggle_content {
   margin: 0;
   padding: 0 20px 20px 42px;
   border: 1px solid #e3e3e3;
-  border-top: 0;  
+  border-top: 0;
 }
 .last_toggle_el_margin {
   margin-top: -1px;
@@ -5492,7 +5492,7 @@ iframe{
   -o-transition: background 0.3s, color 0.3s;
   -ms-transition: background 0.3s, color 0.3s;
   -moz-transition: background 0.3s, color 0.3s;
-  -webkit-transition: background 0.3s, color 0.3s;  
+  -webkit-transition: background 0.3s, color 0.3s;
 }
 .wpb_toggle_alt:after {
   height: 2px;
@@ -5514,7 +5514,7 @@ iframe{
   -o-transition: background 0.3s, color 0.3s;
   -ms-transition: background 0.3s, color 0.3s;
   -moz-transition: background 0.3s, color 0.3s;
-  -webkit-transition: background 0.3s, color 0.3s;  
+  -webkit-transition: background 0.3s, color 0.3s;
 }
 .wpb_toggle_alt.wpb_toggle_title_active + .wpb_toggle_content_alt {
   color: #fff;
@@ -5560,7 +5560,7 @@ iframe{
 .latest-tweets .pic i {
   position: relative;
 }
-.latest-tweets-alt .pic { 
+.latest-tweets-alt .pic {
   text-shadow: none;
 }
 .latest-tweets-alt .pic:after {
@@ -5573,7 +5573,7 @@ iframe{
   background: #fff;
 }
 .latest-tweets-alt .pic i {
-  z-index: 1; 
+  z-index: 1;
 }
 
 
@@ -5636,7 +5636,7 @@ iframe{
   line-height: 24px;
 }
 .widget-sevices li:first-child {
-  border-top: 1px solid #e3e3e3;  
+  border-top: 1px solid #e3e3e3;
 }
 .widget-sevices i {
   position: absolute;
@@ -5753,7 +5753,7 @@ iframe{
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   border-left-width: 4px;
-  border-left-style: solid; 
+  border-left-style: solid;
 }
 .widget-departments dd {
   display: none;
@@ -5790,7 +5790,7 @@ i.appointment{
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   border-left-width: 4px;
-  border-left-style: solid; 
+  border-left-style: solid;
 }
 .widget-appointment input,
 .widget-appointment textarea {
@@ -5947,7 +5947,7 @@ i.appointment{
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   border-left-width: 4px;
-  border-left-style: solid; 
+  border-left-style: solid;
 }
 @media screen and (max-width: 980px) { /* pad */
   .widget-archives li {
@@ -5979,7 +5979,7 @@ i.appointment{
 .widget-calendar td a {
   position: relative;
   display: block;
-  color: #7c7c7c; 
+  color: #7c7c7c;
 }
 .widget-calendar td a:hover {
   color: #fff;
@@ -6021,10 +6021,10 @@ i.appointment{
   line-height: 26px;
 }
 .widget-calendar .ui-datepicker-prev i {
-  text-indent: -1px;  
+  text-indent: -1px;
 }
 .widget-calendar .ui-datepicker-next i {
-  text-indent: 1px; 
+  text-indent: 1px;
 }
 .widget-calendar .ui-datepicker-today a:after {
   content: '';
@@ -6082,7 +6082,7 @@ i.appointment{
   padding: 0 15px;
   border: 1px solid #e3e3e3;
   color: #7c7c7c;
-  display: inline-block;  
+  display: inline-block;
 }
 .pagination a:hover,
 .pagination li.current a {
@@ -6251,7 +6251,7 @@ i.appointment{
 }
 .widget-follow a:hover i {
   background: #fff;
-} 
+}
 @media screen and (max-width: 1190px) { /* laptop */
   .widget-follow a {
     width: 67px;
@@ -6326,7 +6326,7 @@ i.appointment{
 .last-news li {
   margin-top: 20px;
   padding-top: 20px;
-  border-top: 1px solid rgba(255,255,255,0.2);  
+  border-top: 1px solid rgba(255,255,255,0.2);
 }
 .last-news li:first-child {
   margin-top: 0;
@@ -6397,7 +6397,7 @@ i.appointment{
   min-height: 80px;
   margin-top: 20px;
   padding-top: 20px;
-  border-top: 1px solid rgba(255,255,255,0.2);    
+  border-top: 1px solid rgba(255,255,255,0.2);
 }
 .recent-posts li:first-child {
   margin-top: 0;
@@ -6454,7 +6454,7 @@ i.appointment{
   background: #213540;
 }
 .work-time dd {
-  border-bottom: 1px solid rgba(255,255,255,0.3);   
+  border-bottom: 1px solid rgba(255,255,255,0.3);
 }
 .work-time dd:last-child {
   border: 0;
@@ -6553,19 +6553,19 @@ i.appointment{
 /**/
 /* slide up */
 /**/
-@-ms-keyframes slideup 
+@-ms-keyframes slideup
 {
   0% {top:150px}
   70% {top:-15px}
   100% {top:0}
 }
-@-moz-keyframes slideup 
+@-moz-keyframes slideup
 {
   0% {top:150px}
   70% {top:-15px}
   100% {top:0}
 }
-@-webkit-keyframes slideup 
+@-webkit-keyframes slideup
 {
   0% {top:150px}
   70% {top:-15px}
