@@ -289,7 +289,7 @@
 			<div class="slider-wrapper">
 				<section class="slider" id="slider">
 					<div class="ls-slide" data-ls="transition2d:9;slidedelay:7000;">
-						<img src="pic/medical-slide-1.jpg" alt="" class="ls-bg">
+						<img src="pic/pasillo1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="offsetyin:top;offsetxin:0;durationin:2000;offsetyout:bottom;offsetxout:0;durationout:1000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-heart"></span>
@@ -303,7 +303,7 @@
 						</div>
 					</div>
 					<div class="ls-slide" data-ls="transition2d:40;slidedelay:7000;">
-						<img src="pic/medical-slide-2.jpg" alt="" class="ls-bg">
+						<img src="pic/transductor1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="scalexin:0.3;scaleyin:0.3;rotatexin:180;offsetxin:0;durationin:2000;durationout:2000;scalexout:2;scaleyout:2;offsetxout:0;fadeout:true;showuntil:3000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-comments"></span>
@@ -317,7 +317,7 @@
 						</div>
 					</div>
 					<div class="ls-slide" data-ls="transition2d:11;slidedelay:7000;">
-						<img src="pic/medical-slide-3.jpg" alt="" class="ls-bg">
+						<img src="pic/embarazo1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="skewxin:30;skewyin:0;offsetxin:right;fadein:false;durationin:2000;durationout:1000;offsetxout:right;offsetyout:0;fadeout:true;" style="left:80%;top:35%;">
 							<span class="icon fa fa-flask"></span>
