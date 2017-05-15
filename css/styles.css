@@ -817,6 +817,10 @@ textarea {
   width: 1170px;
   margin: 0 auto 60px;
 }
+.grid-row-time {
+  width: 270px;
+  margin: 0 auto 60px;
+}
 .grid-row:after {
   content: '';
   display: table;
@@ -1213,7 +1217,7 @@ nav p{
   position: relative;
   display: block;
   padding: 49px 20px 28px;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 15px;
   color: #000;
   -webkit-transform: translate3d(0,0,0);
@@ -1834,7 +1838,7 @@ nav p{
   font-weight: 700;
 }
 .benefits p {
-  font-size: 14px;
+  font-size: 20px;
   line-height: 19px;
 }
 .benefits .pic {
@@ -6450,7 +6454,7 @@ i.appointment{
   top: 50%;
   right: 10px;
   width: 29px;
-  height: 1px;
+  height: 0px;
   background: #213540;
 }
 .work-time dd {

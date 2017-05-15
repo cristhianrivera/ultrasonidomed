@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Clinico - Responsive Medical and Health Template</title>
+		<title>Ultrasonido médico diagnóstico</title>
 
 		<!-- metas -->
 		<meta charset="utf-8">
@@ -35,7 +35,7 @@
 						<!-- logo -->
 						<section id="logo" class="logo">
 							<div>
-								<a href="index.html"><img src="img/blue/logo.png" alt="Clinico"></a>
+								<a href="index.php"><img src="img/blue/logo.png" alt="Clinico"></a>
 							</div>
 						</section>
 						<!--/ logo -->
@@ -44,10 +44,11 @@
 						<nav class="main-nav">
 							<ul>
 								<li>
-									<a href="index.html" class="active"><i class="fa fa-plus"></i>Home</a>
+									<a href="index.php" class="active"><i class="fa fa-plus"></i>Inicio</a>
+									<!--
 									<ul>
 										<li>
-											<a href="index.html" class="active">Medical Style</a>
+											<a href="index.php" class="active">Medical Style</a>
 											<ul>
 												<li class="text">
 													<h2>Main Campus</h2>
@@ -63,10 +64,17 @@
 										<li><a href="wellness-home.html">Wellness Style</a></li>
 										<li><a href="home-one-page.html">Home Alternative</a></li>
 									</ul>
+									-->
 								</li>
 								<li>
-									<a href="services.html"><i class="fa fa-plus"></i>Services</a>
+									<a href="services.html"><i class="fa fa-plus"></i>Servicios</a>
+									<ul>
+										<li><a href="timetable-month.html">Month View</a></li>
+										<li><a href="timetable-week.html">Week View</a></li>
+										<li><a href="timetable-list.html">List View</a></li>
+									</ul>
 								</li>
+								<!--/
 								<li>
 									<a href="timetable-week.html"><i class="fa fa-plus"></i>Timetable</a>
 									<ul>
@@ -75,6 +83,7 @@
 										<li><a href="timetable-list.html">List View</a></li>
 									</ul>
 								</li>
+
 								<li>
 									<a href="news-default.html"><i class="fa fa-plus"></i>News</a>
 									<ul>
@@ -85,8 +94,9 @@
 										<li><a href="news-blog-post.html">Blog post</a></li>
 									</ul>
 								</li>
+
 								<li class="right">
-									<a href="index.html"><i class="fa fa-plus"></i>Features</a>
+									<a href="index.php"><i class="fa fa-plus"></i>Features</a>
 									<ul>
 										<li><a href="widgets.html">Various widgets</a></li>
 										<li>
@@ -137,8 +147,9 @@
 										<li><a href="photo-single.html">Single item</a></li>
 									</ul>
 								</li>
+								-->
 								<li>
-									<a href="contacts.html"><i class="fa fa-plus"></i>Contacts</a>
+									<a href="contacts.html"><i class="fa fa-plus"></i>Contacto</a>
 								</li>
 							</ul>
 						</nav>
@@ -149,10 +160,10 @@
 							<i class="fa fa-bars"></i><a href="#" class="opener">Navigation</a>
 							<ul>
 								<li>
-									<i></i><a href="index.html" class="active">Home</a>
+									<i></i><a href="index.php" class="active">Home</a>
 									<ul>
 										<li>
-											<i></i><a href="index.html">Medical Style</a>
+											<i></i><a href="index.php">Medical Style</a>
 											<ul>
 												<li class="text">
 													<h2>Main Campus</h2>
@@ -191,7 +202,7 @@
 									</ul>
 								</li>
 								<li>
-									<i></i><a href="index.html">Features</a>
+									<i></i><a href="index.php">Features</a>
 									<ul>
 										<li><a href="widgets.html">Various widgets</a></li>
 										<li>
@@ -254,6 +265,7 @@
 			<!--/ page header -->
 
 			<!-- quick search -->
+			<!--
 			<form id="quick-search" class="quick-search">
 				<fieldset>
 					<legend>Quick Search:</legend>
@@ -283,49 +295,50 @@
 					</div>
 				</fieldset>
 			</form>
-			<!--/ quick search -->
+		  quick search
+		-->
 
 			<!-- slider -->
 			<div class="slider-wrapper">
 				<section class="slider" id="slider">
 					<div class="ls-slide" data-ls="transition2d:9;slidedelay:7000;">
-						<img src="pic/pasillo1.jpg" alt="" class="ls-bg">
+						<img src="pic/embarazo1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="offsetyin:top;offsetxin:0;durationin:2000;offsetyout:bottom;offsetxout:0;durationout:1000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-heart"></span>
 							<h2><span>Ultrasonido</span>Obstétrico</h2>
-							<p>Cosas de bebés</p>
+							<!--<p>Cosas no de bebés</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Leer más</a><!--
+								--><a href="services.html" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
 					</div>
 					<div class="ls-slide" data-ls="transition2d:40;slidedelay:7000;">
-						<img src="pic/transductor1.jpg" alt="" class="ls-bg">
+						<img src="pic/pasillo1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="scalexin:0.3;scaleyin:0.3;rotatexin:180;offsetxin:0;durationin:2000;durationout:2000;scalexout:2;scaleyout:2;offsetxout:0;fadeout:true;showuntil:3000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-comments"></span>
 							<h2><span>Ultrasonido</span>Mamario</h2>
-							<p>Cosas no de bebés</p>
+							<!--<p>Cosas no de bebés</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Leer más</a><!--
+								--><a href="services.html" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
 					</div>
 					<div class="ls-slide" data-ls="transition2d:11;slidedelay:7000;">
-						<img src="pic/embarazo1.jpg" alt="" class="ls-bg">
+						<img src="pic/transductor1.jpg" alt="" class="ls-bg">
 
 						<div class="intro ls-l" data-ls="skewxin:30;skewyin:0;offsetxin:right;fadein:false;durationin:2000;durationout:1000;offsetxout:right;offsetyout:0;fadeout:true;" style="left:80%;top:35%;">
 							<span class="icon fa fa-flask"></span>
-							<h2><span>Ulstrasonido</span>Músculo-esquelético</h2>
-							<p>Cosas de huesos y músculos</p>
+							<h2><span>Ultrasonido</span>Músculo-esquelético</h2>
+							<!--<p>Cosas de huesos y músculos</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
-								--><a href="#" class="button">Leer más</a><!--
+								--><a href="services.html" class="button">Leer más</a><!--
 								--><a href="#" class="next"><i class="fa fa-angle-right"></i></a>
 							</div>
 						</div>
@@ -342,7 +355,7 @@
 						<ul>
 							<li>
                 <!--fa fa-heart -->
-								<div class="pic"><i class="fa fa-stethoscope"></i></div>
+								<div class="pic"><i class="fa fa-medkit"></i></div>
 								<div class="text">
 									<h2>Ultrasonido médico</h2>
 									<p>Método de imagen no invasivo para el diagnóstico de procesos en diferentes órganos del cuerpo.</p>
@@ -541,10 +554,11 @@
 					doctors carousel
 				</div>
         -->
-
+        <!--
 				<div class="grid-row">
+
 					<div class="grid-col grid-col-4">
-						<!-- departments -->
+
 						<section class="widget widget-departments">
 							<div class="widget-title">Departments</div>
 							<dl>
@@ -562,11 +576,12 @@
 								<dd>Sed purus purus, tincidunt eget malesuada et, molestie ut eros. Fusce blandit, sapien eu sollicitudin consectetur, ligula tellus pulvinar. Urna, quis facilisis magna dolor ac lacus.<br/><a href="timetable-week.html"><i class="soc-icon fa fa-clock-o"></i> TIMETABLE</a></dd>
 							</dl>
 						</section>
-						<!--/ departments -->
+						departments
 					</div>
 
+
 					<div class="grid-col grid-col-4">
-						<!-- sevices -->
+						 sevices
 						<section class="widget widget-sevices">
 							<div class="widget-title">Our Medical Services</div>
 							<ul>
@@ -578,11 +593,11 @@
 								<li><i class="fa fa-bookmark"></i><a href="#"><i class="fa fa-angle-right"></i>Consultative & Diagnostic</a></li>
 							</ul>
 						</section>
-						<!--/ sevices -->
+						sevices
 					</div>
 
 					<div class="grid-col grid-col-4">
-						<!-- appointment -->
+						 appointment
 						<section class="widget widget-appointment">
 							<div class="widget-title">Make an Appointment</div>
 							<form action="php/contact-send.php" id="contactform">
@@ -617,9 +632,10 @@
 								</fieldset>
 							</form>
 						</section>
-						<!--/ appointment -->
+						appointment
 					</div>
 				</div>
+				-->
 			</main>
 			<!--/ page content -->
 
@@ -628,8 +644,9 @@
 				<a href="#" id="top-link" class="top-link"><i class="fa fa-angle-double-up"></i></a>
 
 				<div class="grid-row">
+					<!--
 					<div class="grid-col grid-col-3">
-						<!-- last news -->
+
 						<section class="widget-alt last-news">
 							<div class="widget-icon"></div>
 							<div class="widget-title">Clinico</div>
@@ -639,11 +656,13 @@
 								<li>Cras fermentum interdum dapibus. Maecenas imperdiet, consectetur adipiscing magna nec odio cursus, vitae consequat ante.</li>
 							</ul>
 						</section>
-						<!--/ last news -->
-					</div>
+						last news
 
+					</div>
+					-->
+					<!--
 					<div class="grid-col grid-col-3">
-						<!-- location -->
+						 location
 						<section class="widget-alt location">
 							<div class="widget-icon"></div>
 							<div class="widget-title">Location</div>
@@ -659,11 +678,12 @@
 								<a href="#" class="fa fa-instagram"></a>
 							</nav>
 						</section>
-						<!--/ location -->
+						location
 					</div>
-
+					-->
+					<!--
 					<div class="grid-col grid-col-3">
-						<!-- last news -->
+						 last news
 						<section class="widget-alt recent-posts">
 							<div class="widget-icon"></div>
 							<div class="widget-title">Recent Posts</div>
@@ -682,30 +702,34 @@
 								</li>
 							</ul>
 						</section>
-						<!--/ last news -->
+						last news
 					</div>
+					-->
 
-					<div class="grid-col grid-col-3">
+					<div class="grid-row-time">
 						<!-- work time -->
 						<section class="widget-alt work-time">
 							<div class="widget-icon"></div>
+							<h2><span>Horarios de atención</span></h2>
 							<dl>
-								<dt>Mon</dt>
-								<dd>08:00 am - 12:00 pm</dd>
-								<dt>Tue</dt>
-								<dd>01:00 am - 05:00 pm</dd>
-								<dt>Wed</dt>
-								<dd>Free day</dd>
-								<dt>Thu</dt>
-								<dd>08:00 am - 12:00 pm</dd>
-								<dt>Fri</dt>
-								<dd>08:00 am - 12:00 pm</dd>
-								<dt>Sat</dt>
-								<dd>08:00 am - 12:00 pm</dd>
-								<dt>Sun</dt>
-								<dd>Free day</dd>
+								<dt>Lunes</dt>
+								<dd>02:00 pm - 7:00 pm</dd>
+								<dt>Martes</dt>
+								<dd>02:00 pm - 7:00 pm</dd>
+								<dt>Miércoles</dt>
+								<dd>02:00 pm - 7:00 pm</dd>
+								<dt>Jueves</dt>
+								<dd>02:00 pm - 7:00 pm</dd>
+								<dt>Viernes</dt>
+								<dd>02:00 pm - 7:00 pm</dd>
+								<dt>Sábado</dt>
+								<dd>09:00 am - 05:00 pm</dd>
+								<dt>Domingo</dt>
+								<dd>SOLO URGENCIAS</dd>
 							</dl>
+							<!--/
 							<a href="#" class="button">Make an Appointment</a>
+						  -->
 						</section>
 						<!--/ work time -->
 					</div>
@@ -714,7 +738,7 @@
 			<!--/ page footer -->
 
 			<!-- copyrights -->
-			<div class="copyrights">Copyrights ©2014: Clinico - Responsive Medical and Health Template</div>
+			<div class="copyrights">Todos los derechos reservados ©2017: Ultrasonido médico diagnóstico</div>
 			<!--/ copyrights -->
 
 		</div>
