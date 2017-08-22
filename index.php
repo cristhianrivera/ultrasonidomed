@@ -358,7 +358,7 @@
 								<div class="pic"><i class="fa fa-medkit"></i></div>
 								<div class="text">
 									<h2>Ultrasonido médico</h2>
-									<p>Método de imagen no invasivo para el diagnóstico de procesos en diferentes órganos del cuerpo.</p>
+									<p>Método de imagen nada invasivo para el diagnóstico de procesos en diferentes órganos del cuerpo.</p>
 									<a href="#" class="more"></a>
 								</div>
 							</li>
