@@ -306,7 +306,7 @@
 
 						<div class="intro ls-l" data-ls="offsetyin:top;offsetxin:0;durationin:2000;offsetyout:bottom;offsetxout:0;durationout:1000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-heart"></span>
-							<h2><span>Ultrasonido</span>Obstétrico</h2>
+							<h2><span>Ultrasonido</span>de Abdomen</h2>
 							<!--<p>Cosas no de bebés</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
@@ -320,7 +320,7 @@
 
 						<div class="intro ls-l" data-ls="scalexin:0.3;scaleyin:0.3;rotatexin:180;offsetxin:0;durationin:2000;durationout:2000;scalexout:2;scaleyout:2;offsetxout:0;fadeout:true;showuntil:3000;" style="left:80%;top:35%;">
 							<span class="icon fa fa-comments"></span>
-							<h2><span>Ultrasonido</span>Mamario</h2>
+							<h2><span>Ultrasonido</span>Pélvico</h2>
 							<!--<p>Cosas no de bebés</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
@@ -334,7 +334,7 @@
 
 						<div class="intro ls-l" data-ls="skewxin:30;skewyin:0;offsetxin:right;fadein:false;durationin:2000;durationout:1000;offsetxout:right;offsetyout:0;fadeout:true;" style="left:80%;top:35%;">
 							<span class="icon fa fa-flask"></span>
-							<h2><span>Ultrasonido</span>Músculo-esquelético</h2>
+							<h2><span>Ultrasonido</span>Estructural</h2>
 							<!--<p>Cosas de huesos y músculos</p>-->
 							<div class="buttons">
 								<a href="#" class="prev"><i class="fa fa-angle-left"></i></a><!--
@@ -358,11 +358,11 @@
 								<div class="pic"><i class="fa fa-medkit"></i></div>
 								<div class="text">
 									<h2>Ultrasonido médico</h2>
-									<p>Método de imagen nada invasivo para el diagnóstico de procesos en diferentes órganos del cuerpo.</p>
-									<a href="#" class="more"></a>
+									<p>Método seguro y no invasivo que utiliza ondas sonoras de alta frecuencia para producir imágenes del interior del organismo.</p>
+									<!--<a href="#" class="more"></a> -->
 								</div>
 							</li>
-              <!--
+							<!--
 							<li>
 								<div class="pic"><i class="fa fa-flask"></i></div>
 								<div class="text">
@@ -371,6 +371,7 @@
 									<a href="#" class="more"></a>
 								</div>
 							</li>
+
 							<li>
 								<div class="pic"><i class="fa fa-stethoscope"></i></div>
 								<div class="text">
@@ -387,7 +388,7 @@
 									<a href="#" class="more"></a>
 								</div>
 							</li>
-              -->
+						-->
 						</ul>
 					</section>
 					<!--/ benefits -->
