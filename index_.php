@@ -39,12 +39,12 @@
 				        		<a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-								<a class="btns" href="tel:+953 012 3654 896">+953 012 3654 896</a>
-				  				<a class="btns" href="mailto:cris2289@gmail.com">cris2289@gmail.com</a>
-				  				<a class="icons" href="tel:+953 012 3654 896">
+								<a class="btns" href="tel:+953 012 3654 896">55 14 51 90 83</a>
+				  				<a class="btns" href="mailto:rfjimer@yahoo.com">Dr Rafael Jimenez</a>
+				  				<a class="icons" href="tel: 55 14 51 90 83">
 				  					<span class="lnr lnr-phone-handset"></span>
 				  				</a>
-				  				<a class="icons" href="mailto:support@colorlib.com">
+				  				<a class="icons" href="mailto:rfjimer@yahoo.com">
 				  					<span class="lnr lnr-envelope"></span>
 				  				</a>
 				  			</div>
@@ -141,7 +141,7 @@
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-12 pb-40 header-text text-center">
-							<h1 class="pb-10">What we Offer to our Customers</h1>
+							<h1 class="pb-10">Nuestros estudios más solicitados:</h1>
 							<p>
 								Who are in extremely love with eco friendly system.
 							</p>
@@ -150,8 +150,8 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/s1.jpg" alt="">
-								<a href="#"><h4>Popular Use Of The Internet</h4></a>
+								<img class="img-fluid" src="img/HumanBody.jpg" alt="">
+								<a href="#"><h4>Ultrasonido músculo esquelético</h4></a>
 								<p>
 									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
 								</p>
@@ -159,8 +159,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/s2.jpg" alt="">
-								<a href="#"><h4>Protective Preventative</h4></a>
+								<img class="img-fluid" src="img/pregnancy.jpg" alt="">
+								<a href="#"><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
 									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
 								</p>
@@ -168,8 +168,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/s3.jpg" alt="">
-								<a href="#"><h4>Download Free Songs</h4></a>
+								<img class="img-fluid" src="img/transductorModified.jpg" alt="">
+								<a href="#"><h4>Ultrasonido de Abdomen</h4></a>
 								<p>
 									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
 								</p>
@@ -177,8 +177,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/s4.jpg" alt="">
-								<a href="#"><h4>A Discount Toner Cartridge</h4></a>
+								<img class="img-fluid" src="img/Doppler.jpg" alt="">
+								<a href="#"><h4>Ultrasonido Doppler</h4></a>
 								<p>
 									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
 								</p>
@@ -403,8 +403,8 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Features that make us unique</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua.</p>
+								<h1 class="mb-10">Ultrasonido Médico</h1>
+								<p>¡Mucho más que imagen!</p>
 							</div>
 						</div>
 					</div>
@@ -412,12 +412,12 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="single-feature d-flex flex-row">
 								<div class="icon">
-									<span class="lnr lnr-rocket"></span>
+									<span class="lnr lnr-graduation-hat"></span>
 								</div>
 								<div class="details">
-									<h4>24/7 Emergency</h4>
+									<h4>Profesionista</h4>
 									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+										Médico General por la Universidad Nacional Autónoma de México (UNAM).
 									</p>
 								</div>
 							</div>
@@ -428,9 +428,9 @@
 									<span class="lnr lnr-heart-pulse"></span>
 								</div>
 								<div class="details">
-									<h4>Expert Consultation</h4>
+									<h4>Formación</h4>
 									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+										Médico Ultrasonografísta AMUSEM.
 									</p>
 								</div>
 							</div>
@@ -438,12 +438,12 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="single-feature d-flex flex-row">
 								<div class="icon">
-									<span class="lnr lnr-chart-bars"></span>
+									<span class="lnr lnr-license"></span>
 								</div>
 								<div class="details">
-									<h4>X-Ray Service</h4>
+									<h4>Médico certificado</h4>
 									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+										Médico certificado por ICEAF.
 									</p>
 								</div>
 							</div>
@@ -451,25 +451,12 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="single-feature d-flex flex-row">
 								<div class="icon">
-									<span class="lnr lnr-paw"></span>
+									<span class="lnr lnr-calendar-full"></span>
 								</div>
 								<div class="details">
-									<h4>Dental Science</h4>
+									<h4>25 años de servicio</h4>
 									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 col-md-6">
-							<div class="single-feature d-flex flex-row">
-								<div class="icon">
-									<span class="lnr lnr-bug"></span>
-								</div>
-								<div class="details">
-									<h4>Intensive Care</h4>
-									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+										Médico Adscrito al ISSSTE.
 									</p>
 								</div>
 							</div>
@@ -480,9 +467,22 @@
 									<span class="lnr lnr-users"></span>
 								</div>
 								<div class="details">
-									<h4>Family Planning</h4>
+									<h4>Conferencista</h4>
 									<p>
-										inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+										Conferencista nacional e internacional.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<div class="single-feature d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-book"></span>
+								</div>
+								<div class="details">
+									<h4>Formación continua</h4>
+									<p>
+										Asistente a cursos nacionales e internacionales de actualización.
 									</p>
 								</div>
 							</div>
@@ -498,32 +498,28 @@
 					<div class="row align-items-center justify-content-end">
 						<div class="col-lg-6 no-padding appoinment-right">
 							<h1 class="text-white">
-								Book an <br>
-								Appoinment
+								Has una cita
 							</h1>
 		                    <form class="appoinment-form" id="myForm" action="#">
 		                        <div class="row">
 		                            <div class="col-lg-12 d-flex flex-column">
-		                                <input name="patient-name" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
+		                                <input name="patient-name" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="phone" placeholder="Phone" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
+		                                <input name="phone" placeholder="Teléfono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="email" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
+		                                <input name="email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="dob" placeholder="Date of birth" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of birth'" class="form-control mt-20" required="" type="text" id="datepicker">
-		                            </div>
-		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="appoinment-date" placeholder="Appoinment date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Appoinment date'" class="form-control mt-20" required="" type="text" id="datepicker2">
+		                                <input name="appoinment-date" placeholder="Fecha de consulta" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Appoinment date'" class="form-control mt-20" required="" type="text" id="datepicker2">
 		                            </div>
 		                            <div class="col-lg-12 flex-column">
-		                                <textarea  rows="5" class="form-control mt-20" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
+		                                <textarea  rows="5" class="form-control mt-20" name="message" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
 		                            </div>
 
 		                            <div class="col-lg-12 d-flex justify-content-end send-btn">
-		                                <button class="primary-btn primary mt-20 text-uppercase ">Confirm booking</button>
+		                                <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
 		                            </div>
 
 		                            <div class="alert-msg"></div>
