@@ -195,13 +195,13 @@
 					<div class="row align-items-center justify-content-end">
 						<div class="col-lg-6 no-padding home-about-right">
 							<h1 class="text-white">
-								Who we are <br>
-								to Serve the nation
+								¿Qué es el ultrasonido? 
 							</h1>
 							<p>
-								inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach.
+								El ultrasonido es utilizado por médicos para analizar estructuras internas del cuerpo humano como corazón, vasos sanguineos, riñones, hígado así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé.
+								El ultrasonido es un estudio 100% seguro que, al contrario de los rayos X, no expone al paciente a radiaciones. Durante el estudio, el doctor explorara el órgano interesado con un aditamento llamado transductor. El transductor envía ondas sonoras que llegan a los tejidos del cuerpo y captura las ondas que regresan. El equipo de ultrasonido crea imágenes del órgano estudiado basado en las ondas que recibe por medio del transductor.
 							</p>
-							<div class="row no-gutters">
+							<!-- <div class="row no-gutters">
 								<div class="single-services col">
 									<span class="lnr lnr-diamond"></span>
 									<a href="#">
@@ -220,7 +220,7 @@
 										Usage of the Internet is becoming more common due to rapid advancement of technology.
 									</p>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -532,7 +532,7 @@
 			<!-- End appoinment Area -->
 
 			<!-- Start blog Area -->
-			<section class="blog-area section-gap" id="blog">
+			<!-- <section class="blog-area section-gap" id="blog">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-70 col-lg-8">
@@ -605,7 +605,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- End blog Area -->
 
 			<!-- start footer Area -->
@@ -625,9 +625,9 @@
 						</div>
 						<div class="col-lg-4  col-md-6">
 							<div class="single-footer-widget mail-chimp">
-								<h6 class="mb-20">Contact Us</h6>
+								<h6 class="mb-20">¿En dónde estamos?</h6>
 								<p>
-									56/8, bir uttam qazi nuruzzaman road, west panthapath, kalabagan, Dhanmondi, Dhaka - 1205
+								<a href="https://goo.gl/maps/zgqNudtLEJ72" target="_blank">Zacatecas 35-402, CP 06700,<br> Roma Norte, Ciudad de México</a>
 								</p>
 								<h3>012-6532-568-9746</h3>
 								<h3>012-6532-568-97468</h3>
