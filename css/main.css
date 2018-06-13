@@ -108,15 +108,37 @@ a:hover {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 {
     font-family: "Poppins", sans-serif;
-    color: #222;
+    color: #777;
     line-height: 1.2em !important;
     margin-bottom: 0;
     margin-top: 0;
     font-weight: 600
+},
+h5 {
+    font-family: "Poppins", sans-serif;
+    color: #f9f4f9;
+    line-height: 1em ;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 300
+},
+h6 {
+    font-family: "Poppins", sans-serif;
+    color: #777;
+    line-height: 1.2em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600
+},
+h7 {
+    font-family: "Poppins", sans-serif;
+    color: #f9f4f9;
+    line-height: 1.6em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 300
 }
 
 .h1,
@@ -124,6 +146,7 @@ h6 {
 .h3,
 .h4,
 .h5,
+.h7,
 .h6 {
     margin-bottom: 0;
     margin-top: 0;
@@ -161,6 +184,13 @@ h6,
 .h6 {
     font-size: 14px;
     color: #222
+}
+
+h7,
+.h7 {
+    font-size: 20px;
+    line-height:1.6em;
+    color: #777
 }
 
 td,
@@ -829,6 +859,9 @@ h6 {
     font-size: 14px
 }
 
+h7 {
+    font-size: 20px
+}
 h1,
 h2,
 h3,
@@ -843,6 +876,7 @@ h6 {
 .typography h3,
 .typography h4,
 .typography h5,
+.typography h7,
 .typography h6 {
     color: #777
 }
@@ -2312,9 +2346,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .team-area .thumb div,
 .footer-social a:hover,
 .single-footer-widget .bb-btn {
-    background-image: -moz-linear-gradient(0deg, #ade600 0%, #62b900 100%);
-    background-image: -webkit-linear-gradient(0deg, #ade600 0%, #62b900 100%);
-    background-image: -ms-linear-gradient(0deg, #ade600 0%, #62b900 100%)
+    background-image: -moz-linear-gradient(0deg, #3f4096 0%, #97a4ed 100%);
+    background-image: -webkit-linear-gradient(0deg, #3f4096 0%, #97a4ed 100%);
+    background-image: -ms-linear-gradient(0deg, #3f4096 0%, #97a4ed 100%)
 }
 
 .p1-gradient-color,
@@ -2413,7 +2447,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area .overlay-bg {
-    background-color: rgba(4, 9, 30, 0.85)
+    background-color: rgba(4, 9, 30, 0.8)
 }
 
 .banner-content {
@@ -2481,9 +2515,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .open-hour-wrap {
+    width: 90%;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 10px 30px 0px rgba(3, 10, 30, 0.2);
     background-color: #fff;
     background-color: #fff;
     padding: 60px 0px
@@ -2518,11 +2553,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 .open-hour-wrap .date-list .colm-1 {
     text-align: right;
     margin-right: 30px;
-    color: #222
+    color: #777;
+    font-size: 16px
 }
 
 .open-hour-wrap .date-list .colm-2 {
-    text-align: left
+    text-align: left;
+    font-size: 16px
 }
 
 .open-hour-wrap .date-list .colm-2 span {
@@ -2557,6 +2594,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .home-about-area:after {
+    /* position: absolute; */
     position: absolute;
     content: "";
     top: 0;
@@ -2789,7 +2827,8 @@ body.mobile-nav-active #mobile-nav-toggle {
     left: 0;
     width: 48%;
     height: 100%;
-    background: url(../img/appoinment-img.jpg) no-repeat center center/cover;
+    /* height: 100%; */
+    background: url(../img/metro.png) no-repeat center center/cover;
     z-index: 1
 }
 

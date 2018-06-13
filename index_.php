@@ -36,11 +36,11 @@
 		  			<div class="container">
 				  		<div class="row align-items-center">
 				  			<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
-				        		<a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
+				        		<a href="index.php"><img src="img/logoUM.png" alt="" title="" /></a>
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-								<a class="btns" href="tel:+953 012 3654 896">55 14 51 90 83</a>
-				  				<a class="btns" href="mailto:rfjimer@yahoo.com">Dr Rafael Jimenez</a>
+								<a class="btns" href="tel:XX XX XX XX">(55) XX XX XX XX</a>
+				  				<a class="btns" href="mailto:rfjimer@yahoo.com">Dr Rafael Jiménez Rivero</a>
 				  				<a class="icons" href="tel: 55 14 51 90 83">
 				  					<span class="lnr lnr-phone-handset"></span>
 				  				</a>
@@ -55,11 +55,11 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.php">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="services.html">Services</a></li>
-				          <li><a href="opening-hour.html">Opening Hour </a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
+				          <li class="menu-active"><a href="index.php">Inicio</a></li>
+				          <li><a href="about.html">Acerca de </a></li>
+				          <li><a href="services.html">Servicios</a></li>
+				          <li><a href="opening-hour.html">Horario</a></li>
+				          <!-- <li class="menu-has-children"><a href="">Blog</a>
 				            <ul>
 				              <li><a href="blog-home.html">Blog Home</a></li>
 				              <li><a href="blog-single.html">Blog Single</a></li>
@@ -70,18 +70,18 @@
 					            </ul>
 					          </li>
 				            </ul>
-				          </li>
-				          <li><a href="pricing.html">Pricing</a></li>
-				          <li><a href="elements.html">Elements</a></li>
-				          <li><a href="contact.html">Contact</a></li>
+				          </li> -->
+				          <!-- <li><a href="pricing.html">Pricing</a></li>
+				          <li><a href="elements.html">Elements</a></li> -->
+				          <li><a href="contact.html">Contacto</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->
-			      	<div class="menu-social-icons">
+			      	<!-- <div class="menu-social-icons">
 						<a href="#"><i class="fa fa-facebook"></i></a>
 						<a href="#"><i class="fa fa-twitter"></i></a>
 						<a href="#"><i class="fa fa-dribbble"></i></a>
 						<a href="#"><i class="fa fa-behance"></i></a>
-					</div>
+					</div> -->
 			    	</div>
 			    </div>
 			  </header><!-- #header -->
@@ -96,9 +96,11 @@
 							<h1>
 								Ultrasonido Médico Diagnóstico
 							</h1>
-							<p class="text-white mx-auto">
-								Somos profesionales con más de 25 años de experiencia, en constante actualización y miembros de la Asosiación Mexicana de Ultrasonido en Medicina (AMUSEM).
-							</p>
+							<br>
+							<br>
+							<h7 class="text-white mx-auto">
+								Ofrecido por el Dr. Rafael Jiménez Rivero, médico con más de 25 años de experiencia, en constante actualización y miembro de la Asosiación Mexicana de Ultrasonido en Medicina (AMUSEM).
+							</h7>
 							<!-- <a href="#" class="primary-btn header-btn text-uppercase mt-10">Get Started</a> -->
 						</div>
 					</div>
@@ -107,16 +109,12 @@
 			<!-- End banner Area -->
 
 			<!-- Start open-hour Area -->
-			<section class="open-hour-area">
+			<!-- <section class="open-hour-area">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-lg-12 open-hour-wrap">
 							<h1>Horarios de servicio</h1>
-							<!-- <p>
-								Get ready to cast your vote and select the right one
-							</p> -->
-							<br />
-							<!-- <a class="open-btn" href="#"> <span class="circle"></span>We are open Now</a> -->
+
 							<div class="date-list d-flex flex-row justify-content-center">
 								<ul class="colm-1">
 									<li>Lunes - Viernes</li>
@@ -132,7 +130,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- End open-hour Area -->
 
 
@@ -141,9 +139,9 @@
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-12 pb-40 header-text text-center">
-							<h1 class="pb-10">Nuestros estudios más solicitados:</h1>
+							<h1 class="pb-10">Estudios más solicitados:</h1>
 							<p>
-								Who are in extremely love with eco friendly system.
+								Al momento de realizar su cita, por favor mencione el estudio que se desea realizar.
 							</p>
 						</div>
 					</div>
@@ -188,6 +186,28 @@
 				</div>
 			</section>
 			<!-- End service Area -->
+			<section class="open-hour-area">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-xl-auto open-hour-wrap">
+							<h2>Otros estudios:</h2>
+
+							<div class="date-list d-flex flex-row justify-content-center">
+								<ul class="colm-1">
+									<li>Ultrasonido de mama</li>
+									<li>Ultrasonido de testículo</li>
+									<li>Partes blandas</li>
+								</ul>
+								<ul class="colm-2">
+									<li>Ultronido de tiroides</li>
+									<li>Ultrsonido de venas/arterias (¿?)</li>
+									<li>Ultrasonido --- </li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 
 			<!-- Start home-about Area -->
 			<section class="home-about-area section-gap relative">
@@ -195,11 +215,11 @@
 					<div class="row align-items-center justify-content-end">
 						<div class="col-lg-6 no-padding home-about-right">
 							<h1 class="text-white">
-								¿Qué es el ultrasonido? 
+								¿Qué es el ultrasonido?
 							</h1>
 							<p>
-								El ultrasonido es utilizado por médicos para analizar estructuras internas del cuerpo humano como corazón, vasos sanguineos, riñones, hígado así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé.
-								El ultrasonido es un estudio 100% seguro que, al contrario de los rayos X, no expone al paciente a radiaciones. Durante el estudio, el doctor explorara el órgano interesado con un aditamento llamado transductor. El transductor envía ondas sonoras que llegan a los tejidos del cuerpo y captura las ondas que regresan. El equipo de ultrasonido crea imágenes del órgano estudiado basado en las ondas que recibe por medio del transductor.
+ 							  <h5 class="text-white"> El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano como corazón, vasos sanguineos, riñones, hígado así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé. </h5>
+								<!-- El ultrasonido es un estudio 100% seguro que, al contrario de los rayos X, no expone al paciente a radiaciones. Durante el estudio, el doctor explorara el órgano interesado con un aditamento llamado transductor. El transductor envía ondas sonoras que llegan a los tejidos del cuerpo y captura las ondas que regresan. El equipo de ultrasonido crea imágenes del órgano estudiado basado en las ondas que recibe por medio del transductor. -->
 							</p>
 							<!-- <div class="row no-gutters">
 								<div class="single-services col">
@@ -226,9 +246,24 @@
 				</div>
 			</section>
 			<!-- End home-about Area -->
+			<!-- <section class="open-hour-area">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-12 open-hour-wrap">
+							<h1>El ultrasonido...</h1>
+							<br>
+							<h5>
+								En comparación con los estudios de Rayos-X, no expone a los pacientes a radiaciones.
+							</h5>
+							<div class="date-list d-flex flex-row justify-content-center">
 
+							</div>
+						</div>
+					</div>
+				</div>
+			</section> -->
 			<!-- Start testomial Area -->
-			<section class="testomial-area section-gap">
+			<!-- <section class="testomial-area section-gap">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
@@ -333,11 +368,11 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- End testomial Area -->
 
 			<!-- Start team Area -->
-		    <section class="team-area section-gap" id="team">
+		    <!-- <section class="team-area section-gap" id="team">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
@@ -394,7 +429,7 @@
 		                </div>
 		            </div>
 		        </div>
-		    </section>
+		    </section> -->
 		    <!-- End team Area -->
 
 			<!-- Start feature Area -->
@@ -403,8 +438,8 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Ultrasonido Médico</h1>
-								<p>¡Mucho más que imagen!</p>
+								<h1 class="mb-10">Dr. Rafael Jiménez Rivero</h1>
+								<h4>Currículum:</h4>
 							</div>
 						</div>
 					</div>
@@ -454,9 +489,9 @@
 									<span class="lnr lnr-calendar-full"></span>
 								</div>
 								<div class="details">
-									<h4>25 años de servicio</h4>
+									<h4>Más de 25 años de experiencia</h4>
 									<p>
-										Médico Adscrito al ISSSTE.
+										Médico adscrito al ISSSTE.
 									</p>
 								</div>
 							</div>
@@ -612,7 +647,7 @@
 			<footer class="footer-area section-gap">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-2  col-md-6">
+						<!-- <div class="col-lg-2  col-md-6">
 							<div class="single-footer-widget">
 								<h6>Top Products</h6>
 								<ul class="footer-nav">
@@ -622,21 +657,37 @@
 									<li><a href="#">Marketing Service</a></li>
 								</ul>
 							</div>
-						</div>
+						</div> -->
 						<div class="col-lg-4  col-md-6">
 							<div class="single-footer-widget mail-chimp">
-								<h6 class="mb-20">¿En dónde estamos?</h6>
+								<h6 class="mb-20">Dirección:</h6>
 								<p>
 								<a href="https://goo.gl/maps/zgqNudtLEJ72" target="_blank">Zacatecas 35-402, CP 06700,<br> Roma Norte, Ciudad de México</a>
 								</p>
-								<h3>012-6532-568-9746</h3>
-								<h3>012-6532-568-97468</h3>
+								<h6 class="mb-20">Teléfono para realizar citas:</h6>
+								<h3>(55) XX XX XX XX</h3>
 							</div>
 						</div>
 						<div class="col-lg-6  col-md-12">
 							<div class="single-footer-widget newsletter">
-								<h6>Newsletter</h6>
-								<p>You can trust us. we only send promo offers, not a single spam.</p>
+								<h6>Horario de servicio</h6>
+								<div class="date-list d-flex flex-row justify-content-left">
+									<ul class="colm-1">
+										<li>Lunes - Viernes</li>
+										<li>Sábado</li>
+										<li>Domingo</li>
+									</ul>
+									<ul class="colm-2">
+										<li><span>:</span>   de 02:00 pm a 07:00 pm</li>
+										<li><span>:</span>   de 09:00 am a 04:00 pm</li>
+										<li><span>:</span>   Cerrado</li>
+									</ul>
+								</div>
+								<br>
+								<p class="mb-20">Se aceptan tarjetas de crédito y débito<p>
+
+
+								<!-- <p>You can trust us. we only send promo offers, not a single spam.</p>
 								<div id="mc_embed_signup">
 									<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
 
@@ -654,7 +705,7 @@
 										</div>
 										<div class="info"></div>
 									</form>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -663,12 +714,12 @@
 						<p class="col-lg-8 col-sm-12 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-						<div class="col-lg-4 col-sm-12 footer-social">
+						<!-- <div class="col-lg-4 col-sm-12 footer-social">
 							<a href="#"><i class="fa fa-facebook"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>
 							<a href="#"><i class="fa fa-dribbble"></i></a>
 							<a href="#"><i class="fa fa-behance"></i></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</footer>
