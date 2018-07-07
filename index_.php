@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Dentist</title>
+		<title>Ultrasonido Médico Diagnóstico</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 			<!--
@@ -39,7 +39,8 @@
 				        		<a href="index.php"><img src="img/logoUM.png" alt="" title="" /></a>
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-								<a class="btns" href="tel:XX XX XX XX">(55) XX XX XX XX</a>
+								<!-- <a class="btns" href="tel:XX XX XX XX">(55) XX XX XX XX</a> -->
+								  <a class="btns" >(55) 14 51 90 83</a>
 				  				<a class="btns" href="mailto:rfjimer@yahoo.com">Dr Rafael Jiménez Rivero</a>
 				  				<a class="icons" href="tel: 55 14 51 90 83">
 				  					<span class="lnr lnr-phone-handset"></span>
@@ -55,10 +56,12 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.php">Inicio</a></li>
-				          <li><a href="about.html">Acerca de </a></li>
-				          <li><a href="services.html">Servicios</a></li>
-				          <li><a href="opening-hour.html">Horario</a></li>
+				          <li class="menu-active">
+										<a href="#Inicio">Inicio</a>
+									</li>
+				          <li><a href="#Estudios">Estudios</a></li>
+				          <li><a href="#Nosotros">Nosotros</a></li>
+				          <li><a href="#Contacto">Contacto</a></li>
 				          <!-- <li class="menu-has-children"><a href="">Blog</a>
 				            <ul>
 				              <li><a href="blog-home.html">Blog Home</a></li>
@@ -73,7 +76,7 @@
 				          </li> -->
 				          <!-- <li><a href="pricing.html">Pricing</a></li>
 				          <li><a href="elements.html">Elements</a></li> -->
-				          <li><a href="contact.html">Contacto</a></li>
+				          <!-- <li><a href="contact.html">Contacto</a></li> -->
 				        </ul>
 				      </nav><!-- #nav-menu-container -->
 			      	<!-- <div class="menu-social-icons">
@@ -87,12 +90,12 @@
 			  </header><!-- #header -->
 
 			<!-- start banner Area -->
-			<section class="banner-area relative" id="home">
+			<section id="Inicio" class="banner-area relative" id="home">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row fullscreen d-flex justify-content-center align-items-center">
 						<div class="banner-content col-lg-9 col-md-12 justify-content-center">
-							<h6 class="text-uppercase">Llegaste al lugar indicado...</h6>
+							<h6  class="text-uppercase">Llegaste al lugar indicado...</h6>
 							<h1>
 								Ultrasonido Médico Diagnóstico
 							</h1>
@@ -135,11 +138,11 @@
 
 
 			<!-- Start service Area -->
-			<section class="service-area section-gap">
+			<section id="Estudios" class="service-area section-gap">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-12 pb-40 header-text text-center">
-							<h1 class="pb-10">Estudios más solicitados:</h1>
+							<h1  class="pb-10">Estudios más solicitados:</h1>
 							<p>
 								Al momento de realizar su cita, por favor mencione el estudio que se desea realizar.
 							</p>
@@ -151,7 +154,7 @@
 								<img class="img-fluid" src="img/HumanBody.jpg" alt="">
 								<a href="#"><h4>Ultrasonido músculo esquelético</h4></a>
 								<p>
-									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral.
 								</p>
 							</div>
 						</div>
@@ -160,28 +163,29 @@
 								<img class="img-fluid" src="img/pregnancy.jpg" alt="">
 								<a href="#"><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
-									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/transductorModified.jpg" alt="">
-								<a href="#"><h4>Ultrasonido de Abdomen</h4></a>
+								<a href="#"><h4>Ultrasonido Abdominal</h4></a>
 								<p>
-									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Estudio que valora órganos intraabdominales, (hígado, páncreas, vesícula biliar, bazo etc.)  siendo un auxiliar diagnóstico de gran utilidad para el clínico.
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/Doppler.jpg" alt="">
-								<a href="#"><h4>Ultrasonido Doppler</h4></a>
+								<a href="#"><h4>Ultrasonido Tiroideo</h4></a>
 								<p>
-									inappropriate behavior is oftenlaug hed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 								</p>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</section>
@@ -190,18 +194,28 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-auto open-hour-wrap">
-							<h2>Otros estudios:</h2>
+							<h2>Lista completa de estudios:</h2>
 
 							<div class="date-list d-flex flex-row justify-content-center">
 								<ul class="colm-1">
+									<li><h4>Generales:</h4></li>
+									<li>Ultrasonido abdominal</li>
+									<li>Ultrasonido ginecológico</li>
 									<li>Ultrasonido de mama</li>
-									<li>Ultrasonido de testículo</li>
-									<li>Partes blandas</li>
+									<li>Ultrasonido obstétrico</li>
+									<li>Ultrasonido de partes blandas</li>
+									<li>Ultrasonido prostático</li>
+									<li>Ultrasonido renal</li>
+									<li>Ultrasonido testicular</li>
+									<li>Ultrasonido tiroideo</li>
 								</ul>
 								<ul class="colm-2">
-									<li>Ultronido de tiroides</li>
-									<li>Ultrsonido de venas/arterias (¿?)</li>
-									<li>Ultrasonido --- </li>
+									<li><h4>De alta especialidad:</h4></li>
+									<li>Ultrasonido 4D</li>
+									<li>Ultrasonido doppler</li>
+									<li>Ultrasonido músculo esquelético</li>
+									<li>Perfil biofísico fetal</li>
+									<li>Perfil vascular (venas/arterias)</li>
 								</ul>
 							</div>
 						</div>
@@ -433,7 +447,7 @@
 		    <!-- End team Area -->
 
 			<!-- Start feature Area -->
-			<section class="feature-area section-gap">
+			<section id="Nosotros" class="feature-area section-gap">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
@@ -528,7 +542,7 @@
 			<!-- End feature Area -->
 
 			<!-- Start appoinment Area -->
-			<section class="appoinment-area section-gap relative">
+			<section id="Contacto" class="appoinment-area section-gap relative">
 				<div class="container">
 					<div class="row align-items-center justify-content-end">
 						<div class="col-lg-6 no-padding appoinment-right">
@@ -538,23 +552,24 @@
 		                    <form class="appoinment-form" id="myForm" action="#">
 		                        <div class="row">
 		                            <div class="col-lg-12 d-flex flex-column">
-		                                <input name="patient-name" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
+		                                <input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="phone" placeholder="Teléfono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
+		                                <input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
+		                                <input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
 		                            </div>
 		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="appoinment-date" placeholder="Fecha de consulta" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Appoinment date'" class="form-control mt-20" required="" type="text" id="datepicker2">
+		                                <input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
 		                            </div>
 		                            <div class="col-lg-12 flex-column">
-		                                <textarea  rows="5" class="form-control mt-20" name="message" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
+		                                <textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
 		                            </div>
 
 		                            <div class="col-lg-12 d-flex justify-content-end send-btn">
-		                                <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
+		                                <!-- <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button> -->
+																		<button type="submit" id="submit-form" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
 		                            </div>
 
 		                            <div class="alert-msg"></div>
@@ -665,7 +680,7 @@
 								<a href="https://goo.gl/maps/zgqNudtLEJ72" target="_blank">Zacatecas 35-402, CP 06700,<br> Roma Norte, Ciudad de México</a>
 								</p>
 								<h6 class="mb-20">Teléfono para realizar citas:</h6>
-								<h3>(55) XX XX XX XX</h3>
+								<h3>(55) 14 51 90 83</h3>
 							</div>
 						</div>
 						<div class="col-lg-6  col-md-12">
@@ -729,7 +744,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 			<script src="js/vendor/bootstrap.min.js"></script>
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>
+  		<script src="js/easing.min.js"></script>
 			<script src="js/hoverIntent.js"></script>
 			<script src="js/superfish.min.js"></script>
 			<script src="js/jquery.ajaxchimp.min.js"></script>
@@ -737,6 +752,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
  			<script src="js/jquery-ui.js"></script>
 			<script src="js/owl.carousel.min.js"></script>
 			<script src="js/jquery.nice-select.min.js"></script>
+			<script src="js/jquery.serialize-object.min.js"></script>
+			<script src="js/google_script_form_ajax.js"></script>
+
 			<script src="js/mail-script.js"></script>
 			<script src="js/main.js"></script>
 		</body>
