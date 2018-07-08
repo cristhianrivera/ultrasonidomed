@@ -551,7 +551,7 @@
 			  <button type="submit">Send</button>
 		  </form>
 		  <script>
-		   const scriptURL = 'https://script.google.com/macros/s/AKfycbyEsjjmUjgPRB2yRA3S7BgzKEue9bMgx7SqJN_uluLsqlcoqTMK/exec'
+		   const scriptURL = https://script.google.com/macros/s/AKfycbyEsjjmUjgPRB2yRA3S7BgzKEue9bMgx7SqJN_uluLsqlcoqTMK/exec
 		   const form = document.forms['contact']
 		   form.addEventListener('submit', e => {
 		    e.preventDefault()
