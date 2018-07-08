@@ -542,8 +542,9 @@
 			<!-- End feature Area -->
 <!-- ####################################### -->
 
-			<form name="contact">
-				<input name="Nombre" type="text" placeholder="Nombre" required>
+			<!-- <form name="contact">
+
+				<input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
 				<input name="Telefono" type="text" placeholder="Telefono">
 				<input name="Email" type="text" placeholder="Email">
 				<input name="Fecha" type="text" placeholder="Fecha">
@@ -560,7 +561,7 @@
 		     .catch(error => console.error('Error!', error.message))
 		   })
 		  </script>
-
+ -->
 
 <!-- ####################################### -->
 
@@ -572,7 +573,7 @@
 							<h1 class="text-white">
 								Has una cita
 							</h1>
-                <form class="appoinment-form" id="myForm" action="#">
+                <!-- <form name="contact" class="appoinment-form" id="myForm" action="#">
                     <div class="row">
                         <div class="col-lg-12 d-flex flex-column">
                             <input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
@@ -591,13 +592,32 @@
                         </div>
 
                         <div class="col-lg-12 d-flex justify-content-end send-btn">
-                            <!-- <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button> -->
 														<button type="submit" id="submit-form" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
                         </div>
 
                         <div class="alert-msg"></div>
-                    </div>
+                    </div> -->
+
+								<form name="contact">
+
+											<input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
+											<input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
+											<input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" type="email">
+											<input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
+											<textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
+											<button type="submit" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
+									  </form>
                 </form>
+								<script>
+								 const scriptURL = 'https://script.google.com/macros/s/AKfycbzZJR8dP3IX2M2Kyngm7vzJeL3UcrBuItsEowCt9UDR5Vr82wyH/exec'
+								 const form = document.forms['contact']
+								 form.addEventListener('submit', e => {
+									e.preventDefault()
+									fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+									 .then(response => console.log('Success!', response))
+									 .catch(error => console.error('Error!', error.message))
+								 })
+								</script>
 						</div>
 					</div>
 				</div>
