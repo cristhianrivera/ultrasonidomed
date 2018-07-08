@@ -551,7 +551,7 @@
 			  <button type="submit">Send</button>
 		  </form>
 		  <script>
-		   const scriptURL = https://script.google.com/macros/s/AKfycbyEsjjmUjgPRB2yRA3S7BgzKEue9bMgx7SqJN_uluLsqlcoqTMK/exec
+			 const scriptURL = 'https://script.google.com/macros/s/AKfycbzZJR8dP3IX2M2Kyngm7vzJeL3UcrBuItsEowCt9UDR5Vr82wyH/exec'
 		   const form = document.forms['contact']
 		   form.addEventListener('submit', e => {
 		    e.preventDefault()
@@ -572,32 +572,32 @@
 							<h1 class="text-white">
 								Has una cita
 							</h1>
-		                    <form class="appoinment-form" id="myForm" action="#">
-		                        <div class="row">
-		                            <div class="col-lg-12 d-flex flex-column">
-		                                <input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
-		                            </div>
-		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
-		                            </div>
-		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
-		                            </div>
-		                            <div class="col-lg-6 d-flex flex-column">
-		                                <input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
-		                            </div>
-		                            <div class="col-lg-12 flex-column">
-		                                <textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
-		                            </div>
+                <form class="appoinment-form" id="myForm" action="#">
+                    <div class="row">
+                        <div class="col-lg-12 d-flex flex-column">
+                            <input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
+                        </div>
+                        <div class="col-lg-6 d-flex flex-column">
+                            <input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
+                        </div>
+                        <div class="col-lg-6 d-flex flex-column">
+                            <input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
+                        </div>
+                        <div class="col-lg-6 d-flex flex-column">
+                            <input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
+                        </div>
+                        <div class="col-lg-12 flex-column">
+                            <textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
+                        </div>
 
-		                            <div class="col-lg-12 d-flex justify-content-end send-btn">
-		                                <!-- <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button> -->
-																		<button type="submit" id="submit-form" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
-		                            </div>
+                        <div class="col-lg-12 d-flex justify-content-end send-btn">
+                            <!-- <button class="primary-btn primary mt-20 text-uppercase ">Enviar</button> -->
+														<button type="submit" id="submit-form" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
+                        </div>
 
-		                            <div class="alert-msg"></div>
-		                        </div>
-		                    </form>
+                        <div class="alert-msg"></div>
+                    </div>
+                </form>
 						</div>
 					</div>
 				</div>
