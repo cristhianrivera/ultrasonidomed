@@ -762,7 +762,7 @@
 									</ul>
 								</div>
 								<br>
-								<p class="mb-20">Se aceptan tarjetas de crédito y débito<p>
+								<p class="mb-20">Aceptamos tarjetas de crédito y débito.<p>
 
 
 								<!-- <p>You can trust us. we only send promo offers, not a single spam.</p>
