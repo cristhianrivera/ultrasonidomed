@@ -540,6 +540,29 @@
 				</div>
 			</section>
 			<!-- End feature Area -->
+<!-- ####################################### -->
+
+			<form name="contact">
+				<input name="Nombre" type="text" placeholder="Nombre" required>
+				<input name="Telefono" type="text" placeholder="Telefono">
+				<input name="Email" type="text" placeholder="Email">
+				<input name="Fecha" type="text" placeholder="Fecha">
+				<input name="Mensaje" type="text" placeholder="Mensaje">
+			  <button type="submit">Send</button>
+		  </form>
+		  <script>
+		   const scriptURL = 'https://script.google.com/macros/s/AKfycbyEsjjmUjgPRB2yRA3S7BgzKEue9bMgx7SqJN_uluLsqlcoqTMK/exec'
+		   const form = document.forms['contact']
+		   form.addEventListener('submit', e => {
+		    e.preventDefault()
+		    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+		     .then(response => console.log('Success!', response))
+		     .catch(error => console.error('Error!', error.message))
+		   })
+		  </script>
+
+
+<!-- ####################################### -->
 
 			<!-- Start appoinment Area -->
 			<section id="Contacto" class="appoinment-area section-gap relative">
