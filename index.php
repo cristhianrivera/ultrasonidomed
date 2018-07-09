@@ -175,6 +175,15 @@
 								<p>
 									Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral.
 								</p>
+								<!-- <div class="alert alert-warning alert-dismissible fade show" role="alert">
+								  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+								    <span aria-hidden="true">&times;</span>
+								  </button>
+								  <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+								</div> -->
+
+
+
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
