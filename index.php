@@ -590,7 +590,7 @@
 					<div class="row align-items-center justify-content-end">
 						<div class="col-lg-6 no-padding appoinment-right">
 							<h1 class="text-white">
-								Has una cita
+								Realice una cita:
 							</h1>
                 <!-- <form name="contact" class="appoinment-form" id="myForm" action="#">
                     <div class="row">
@@ -619,19 +619,19 @@
 
 								<form name="contact">
 
-											<input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombre'" class="form-control mt-20" required="" type="text">
-											<input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Telefono'" class="form-control mt-20" required="" type="text">
+											<input name="Nombre" placeholder="Nombre completo" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombre completo'" class="form-control mt-20" required="" type="text">
+											<input name="Telefono" placeholder="Teléfono a 10 dígitos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Teléfono a 10 dígitos'" class="form-control mt-20" required="" type="text">
 											<input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" class="form-control mt-20" type="email">
-											<input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
+											<input name="Fecha" placeholder="Fecha de consulta" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
 											<textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Mensaje'" required=""></textarea>
-											<button type="submit" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
+											<button type="submit" class="primary-btn primary mt-20 text-uppercase " onclick="myFunction()" >Enviar</button>
 									  </form>
                 </form>
-
 								<script>
 								 const scriptURL = 'https://script.google.com/macros/s/AKfycbzZJR8dP3IX2M2Kyngm7vzJeL3UcrBuItsEowCt9UDR5Vr82wyH/exec'
 								 const form = document.forms['contact']
 								 form.addEventListener('submit', e => {
+								  confirm("Gracias por su mensaje, nos pondremos en contacto con usted a la brevedad.")
 									e.preventDefault()
 									fetch(scriptURL, { method: 'POST', body: new FormData(form)})
 									 .then(response => console.log('Success!', response))
