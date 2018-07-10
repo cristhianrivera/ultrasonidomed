@@ -237,9 +237,10 @@
 									</li>
 
 									<li class="UGinecologico">
-											<p id="UGinecologico" title="Ultrasonido ginecológico">Estudio que permite visualizar órganos pélvicos como: útero, ovarios, endometrio, trompas de Falopio y vejiga.
+											<p id="UGinecologico" title="Ultrasonido ginecológico">
+												Estudio que permite visualizar órganos pélvicos como: útero, ovarios, endometrio, trompas de Falopio y vejiga.
 											</p>
-											<a href="#UGinecologico" style="color:grey">
+											<a href="#UGinecologico" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido ginecológico
 											</a>
 									</li>
@@ -255,7 +256,7 @@
 									<li class="UObstetrico">
 											<p id="UObstetrico" title="Ultrasonido obstétrico" >Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
 											</p>
-											<a href="#UObstetrico" style="color:grey">
+											<a href="#UObstetrico" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido obstétrico
 											</a>
 									</li>
@@ -271,7 +272,7 @@
 									<li class="UProstatico">
 											<p id="UProstatico" title="Ultrasonido prostático">Estudio que visualiza la glándula prostática, de alto valor diagnóstico en enfermedades tales como: Quistes, hiperplasia prostática benigna (HPB), carcinoma de próstata, prostatitis, vesículas seminales agrandadas, entre otras. Se realiza por vía transabdominal y transrectal dependiendo de las indicaciones del médico.
 											</p>
-											<a href="#UProstatico" style="color:grey">
+											<a href="#UProstatico" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido prostático
 											</a>
 									</li>
@@ -287,7 +288,7 @@
 									<li class="UTesticular">
 											<p id="UTesticular" title="Ultrasonido testicular">Procedimiento para examinar los testículos y otras estructuras del escroto, ayudando a determinar diferentes patologías, siendo las causas más frecuentes, agrandamiento testicular y/o dolor testicular.
 											</p>
-											<a href="#UTesticular" style="color:grey">
+											<a href="#UTesticular" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido testicular
 											</a>
 									</li>
@@ -307,7 +308,7 @@
 									<li class="U4d">
 											<p id="U4d" title="Ultrasonido 4D">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 											</p>
-											<a href="#U4d" style="color:grey">
+											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido 4D
 											</a>
 									</li>
@@ -321,7 +322,7 @@
 									<li class="UMusculo">
 											<p id="UMusculo" title="Ultrasonido músculo esquelético">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 											</p>
-											<a href="#UMusculo" style="color:grey">
+											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido músculo esquelético
 											</a>
 									</li>
@@ -335,7 +336,7 @@
 									<li class="UPerfilVascular">
 											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 											</p>
-											<a href="#UPerfilVascular" style="color:grey">
+											<a href="#UPerfilVascular" style="color:rgba(122,122,122,0.7)">
 												Perfil vascular (venas/arterias)
 											</a>
 									</li>
