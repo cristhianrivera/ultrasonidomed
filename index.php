@@ -14,13 +14,13 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="img/logoUM.png">
 		<!-- Author Meta -->
-		<meta name="author" content="colorlib">
+		<meta name="author" content="CRJR">
 		<!-- Meta Description -->
-		<meta name="description" content="">
+		<meta name="description" content="Ultrasonido médico diagnostico en la Ciudad de México.">
 		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
+		<meta name="keywords" content="ultrasonido, ultrasonido médico, ultrasonido obstetrico, ultrasonido 4d, ultrasonido doppler, ultrasonido abdominal">
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
