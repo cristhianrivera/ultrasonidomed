@@ -18,9 +18,9 @@
 		<!-- Author Meta -->
 		<meta name="author" content="CRJR">
 		<!-- Meta Description -->
-		<meta name="description" content="Ultrasonido médico diagnostico en la Ciudad de México.">
+		<meta name="description" content="Ultrasonido medico diagnostico en la Ciudad de Mexico.">
 		<!-- Meta Keyword -->
-		<meta name="keywords" content="ultrasonido, ultrasonido médico, ultrasonido obstetrico, ultrasonido 4d, ultrasonido doppler, ultrasonido abdominal">
+		<meta name="keywords" content="ultrasonido, ultrasonido medico, ultrasonido obstetrico, ultrasonido 4d, ultrasonido doppler, ultrasonido abdominal">
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
@@ -223,29 +223,125 @@
 					<div class="row justify-content-center">
 						<div class="col-xl-auto open-hour-wrap">
 							<h2>Otros estudios:</h2>
-
 							<div class="date-list d-flex flex-row justify-content-center">
 								<ul class="colm-1">
+
 									<li><h4>Generales:</h4></li>
-									<li>Ultrasonido abdominal</li>
-									<li>Ultrasonido ginecológico</li>
-									<li>Ultrasonido de mama</li>
-									<li>Ultrasonido obstétrico</li>
-									<li>Ultrasonido de partes blandas</li>
-									<li>Ultrasonido prostático</li>
-									<li>Ultrasonido renal</li>
-									<li>Ultrasonido testicular</li>
-									<li>Ultrasonido tiroideo</li>
+									<br>
+									<li class="UAbdominal">
+											<p id="UAbdominal" title="Ultrasonido abdominal">Estudio que valora órganos intraabdominales, (hígado, páncreas, vesícula biliar, bazo etc.)  siendo un auxiliar diagnóstico de gran utilidad para el médico.
+											</p>
+											<a href="#UAbdominal" style="color:grey">
+												Ultrasonido abdominal
+											</a>
+									</li>
+
+									<li class="UGinecologico">
+											<p id="UGinecologico" title="Ultrasonido ginecológico">Estudio que permite visualizar órganos pélvicos como: útero, ovarios, endometrio, trompas de Falopio y vejiga.
+											</p>
+											<a href="#UGinecologico" style="color:grey">
+												Ultrasonido ginecológico
+											</a>
+									</li>
+
+									<li class="UMama">
+											<p id="UMama" title="Ultrasonido de mama" >Estudio que a diferencia de la mastografía no emite radiación ionizante en su realización, sin embargo, es complemento cuando hay alguna alteración del tejido mamario. ¡Recuerda que no toda tumoración es cáncer!
+											</p>
+											<a href="#UMama" style="color:grey">
+												Ultrasonido de mama
+											</a>
+									</li>
+
+									<li class="UObstetrico">
+											<p id="UObstetrico" title="Ultrasonido obstétrico" >Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
+											</p>
+											<a href="#UObstetrico" style="color:grey">
+												Ultrasonido obstétrico
+											</a>
+									</li>
+
+									<li class="UBlandas">
+											<p id="UBlandas" title="Ultrasonido de partes blandas">Ecografía que valora la piel,el tejido celular subcutáneo (grasa), tejidos de soporte en extremidades, pared abdominal y cuello.
+											</p>
+											<a href="#UBlandas" style="color:grey">
+												Ultrasonido de partes blandas
+											</a>
+									</li>
+
+									<li class="UProstatico">
+											<p id="UProstatico" title="Ultrasonido prostático">Estudio que visualiza la glándula prostática, de alto valor diagnóstico en enfermedades tales como: Quistes, hiperplasia prostática benigna (HPB), carcinoma de próstata, prostatitis, vesículas seminales agrandadas, entre otras. Se realiza por vía transabdominal y transrectal dependiendo de las indicaciones del médico.
+											</p>
+											<a href="#UProstatico" style="color:grey">
+												Ultrasonido prostático
+											</a>
+									</li>
+
+									<li class="URenal">
+											<p id="URenal" title="Ultrasonido renal">Examen seguro e indoloro en el cual se utilizan ondas sonoras para obtener imágenes de los riñones, los uréteres y la vejiga, pudiéndose valorar: el tamaño de los riñones, lesiones en los riñones, anomalías presentes desde el nacimiento, presencia de obstrucciones o piedras en los riñones, complicaciones de una infección del tracto urinario, quistes o tumores.
+											</p>
+											<a href="#URenal" style="color:grey">
+												Ultrasonido renal
+											</a>
+									</li>
+
+									<li class="UTesticular">
+											<p id="UTesticular" title="Ultrasonido testicular">Procedimiento para examinar los testículos y otras estructuras del escroto, ayudando a determinar diferentes patologías, siendo las causas más frecuentes, agrandamiento testicular y/o dolor testicular.
+											</p>
+											<a href="#UTesticular" style="color:grey">
+												Ultrasonido testicular
+											</a>
+									</li>
+
+									<li class="UTiroideo">
+											<p id="UTiroideo" title="Ultrasonido tiroideo">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#UTiroideo" style="color:grey">
+												Ultrasonido tiroideo
+											</a>
+									</li>
+
 								</ul>
 								<ul class="colm-2">
 									<li><h4>De alta especialidad:</h4></li>
-									<li>Ultrasonido 4D</li>
-									<li>Ultrasonido doppler</li>
-									<li>Ultrasonido músculo esquelético</li>
-									<li>Perfil biofísico fetal</li>
-									<li>Perfil vascular (venas/arterias)</li>
+									<br>
+									<li class="U4d">
+											<p id="U4d" title="Ultrasonido 4D">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#U4d" style="color:grey">
+												Ultrasonido 4D
+											</a>
+									</li>
+									<li class="UDoppler">
+											<p id="UDoppler" title="Ultrasonido doppler">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#UDoppler" style="color:grey">
+												Ultrasonido doppler
+											</a>
+									</li>
+									<li class="UMusculo">
+											<p id="UMusculo" title="Ultrasonido músculo esquelético">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#UMusculo" style="color:grey">
+												Ultrasonido músculo esquelético
+											</a>
+									</li>
+									<li class="UPerfil">
+											<p id="UPerfil" title="Perfil biofísico fetal">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#UPerfil" style="color:grey">
+												Perfil biofísico fetal
+											</a>
+									</li>
+									<li class="UPerfilVascular">
+											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											</p>
+											<a href="#UPerfilVascular" style="color:grey">
+												Perfil vascular (venas/arterias)
+											</a>
+									</li>
 								</ul>
 							</div>
+							<p style="color:rgba(25,25,25,.5)" ><i>hacer click en el nombre del estudio para ver más información</i></p>
 						</div>
 					</div>
 				</div>
@@ -826,8 +922,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			<script src="js/jquery.nice-select.min.js"></script>
 			<script src="js/jquery.serialize-object.min.js"></script>
 			<script src="js/google_script_form_ajax.js"></script>
-
 			<script src="js/mail-script.js"></script>
 			<script src="js/main.js"></script>
+			<script src="js/information-popups.js"></script>
+
+			</script>
 		</body>
 	</html>

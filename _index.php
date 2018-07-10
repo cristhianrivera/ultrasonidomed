@@ -13,16 +13,16 @@
   <script src="js/jquery.js"></script>
   <script src="js/jquery-ui.js"></script>
   <script>
-  $( function() {
-    $('#testimonialOpen').dialog({
-        autoOpen:false
-    });
+    $( function() {
+      $('#testimonialOpen').dialog({
+          autoOpen:false
+      });
 
-    $(".h1 a").click(function(e) {
-        e.preventDefault();
-        $('#testimonialOpen').dialog('open');
+      $(".h1 a").click(function(e) {
+          e.preventDefault();
+          $('#testimonialOpen').dialog('open');
+      });
     });
-  });
 
   </script>
 </head>
