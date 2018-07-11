@@ -171,7 +171,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/HumanBody.jpg" alt="">
-								<a href="#"><h4>Ultrasonido músculo esquelético</h4></a>
+								<a ><h4>Ultrasonido músculo esquelético</h4></a>
 								<p>
 									Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral.
 								</p>
@@ -189,7 +189,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/pregnancy.jpg" alt="">
-								<a href="#"><h4>Ultrasonido Obstétrico</h4></a>
+								<a ><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
 									Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
 								</p>
@@ -198,7 +198,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/transductorModified.jpg" alt="">
-								<a href="#"><h4>Ultrasonido Abdominal</h4></a>
+								<a ><h4>Ultrasonido Abdominal</h4></a>
 								<p>
 									Estudio que valora órganos intraabdominales, (hígado, páncreas, vesícula biliar, bazo etc.)  siendo un auxiliar diagnóstico de gran utilidad para el clínico.
 								</p>
@@ -207,7 +207,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
 								<img class="img-fluid" src="img/Doppler.jpg" alt="">
-								<a href="#"><h4>Ultrasonido Tiroideo</h4></a>
+								<a ><h4>Ultrasonido Tiroideo</h4></a>
 								<p>
 									Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 								</p>
@@ -262,7 +262,7 @@
 									</li>
 
 									<li class="UBlandas">
-											<p id="UBlandas" title="Ultrasonido de partes blandas">Ecografía que valora la piel,el tejido celular subcutáneo (grasa), tejidos de soporte en extremidades, pared abdominal y cuello.
+											<p id="UBlandas" title="Ultrasonido de partes blandas">Ecografía que valora la piel, el tejido celular subcutáneo (grasa), tejidos de soporte en extremidades, pared abdominal y cuello.
 											</p>
 											<a href="#UBlandas" style="color:grey">
 												Ultrasonido de partes blandas
@@ -306,35 +306,35 @@
 									<li><h4>De alta especialidad:</h4></li>
 									<br>
 									<li class="U4d">
-											<p id="U4d" title="Ultrasonido 4D">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											<p id="U4d" title="Ultrasonido 4D">Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo. Se pueden realizar en cualquier momento del embarazo aunque las mejores imágenes se obtienen entre las semanas 24 y 30 pues las condiciones son las más adecuadas.
 											</p>
 											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido 4D
 											</a>
 									</li>
 									<li class="UDoppler">
-											<p id="UDoppler" title="Ultrasonido doppler">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											<p id="UDoppler" title="Ultrasonido doppler">Estudio a color que permite medir flujos sanguíneos tanto arteriales como venosos.
 											</p>
 											<a href="#UDoppler" style="color:grey">
 												Ultrasonido doppler
 											</a>
 									</li>
 									<li class="UMusculo">
-											<p id="UMusculo" title="Ultrasonido músculo esquelético">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											<p id="UMusculo" title="Ultrasonido músculo esquelético">Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral. Pudiendo valorar alteraciones tales como: desgaste articular, tendinitis, bursitis, rupturas musculares y/o tendinosas, hemorragias, compresión de algún nervio, etc.
 											</p>
 											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido músculo esquelético
 											</a>
 									</li>
 									<li class="UPerfil">
-											<p id="UPerfil" title="Perfil biofísico fetal">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											<p id="UPerfil" title="Perfil biofísico fetal (PBF)">Un perfil biofísico es un examen médico que combina una prueba sin estrés con una ecografía para controlar la salud del feto. Una prueba sin estrés mide la frecuencia cardíaca fetal en respuesta a los movimientos del feto.Por lo general, la prueba del perfil biofísico se lleva a cabo en el último trimestre del embarazo bajo indicaciones específicas por parte del gineco-obstetra. El PBF consta de cinco partes: prueba sin estrés, movimientos respiratorios fetales, movimientos fetales, tono fetal, volumen líquido amniótico.
 											</p>
 											<a href="#UPerfil" style="color:grey">
 												Perfil biofísico fetal
 											</a>
 									</li>
 									<li class="UPerfilVascular">
-											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
+											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">La ecografía vascular utiliza ondas sonoras para evaluar el sistema circulatorio del cuerpo y ayudar a identificar bloqueos en las arterias y venas; pudiendo visualizar patologías como: ateromas, coágulos, aneurismas entre otras.
 											</p>
 											<a href="#UPerfilVascular" style="color:rgba(122,122,122,0.7)">
 												Perfil vascular (venas/arterias)
