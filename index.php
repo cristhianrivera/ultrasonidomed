@@ -51,13 +51,14 @@
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
 								<!-- <a class="btns" href="tel:XX XX XX XX">(55) XX XX XX XX</a> -->
 								  <a class="btns" >(55) 14 51 90 83</a>
-				  				<a class="btns" href="mailto:rfjimer@yahoo.com">Dr Rafael Jiménez Rivero</a>
+				  				<a class="btns" href="mailto:info@ultrasonidomed.com">Dr Rafael Jiménez Rivero</a>
 				  				<a class="icons" href="tel: 55 14 51 90 83">
 				  					<span class="lnr lnr-phone-handset"></span>
 				  				</a>
-				  				<a class="icons" href="mailto:rfjimer@yahoo.com">
+				  				<a class="icons" href="mailto:info@ultrasonidomed.com">
 				  					<span class="lnr lnr-envelope"></span>
 				  				</a>
+									<a href="https://www.facebook.com/ultrasonidomed" target="_blank"><i class="fa fa-facebook"></i></a>
 				  			</div>
 				  		</div>
 		  			</div>
@@ -850,6 +851,9 @@
 								</p>
 								<h6 class="mb-20">Teléfono para realizar citas:</h6>
 								<h3>(55) 14 51 90 83</h3>
+								<br>
+								<h6 class="mb-20">Correo electrónico:</h6>
+								<h7 style="color:#ade600" class="icons" href="mailto:info@ultrasonidomed.com">info@ultrasonidomed.com</h7>
 							</div>
 						</div>
 						<div class="col-lg-6  col-md-12">
@@ -899,7 +903,7 @@
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 						<!-- <div class="col-lg-4 col-sm-12 footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="https://www.facebook.com/ultrasonidomed" target="_blank"><i class="fa fa-facebook fa-3x"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>
 							<a href="#"><i class="fa fa-dribbble"></i></a>
 							<a href="#"><i class="fa fa-behance"></i></a>
