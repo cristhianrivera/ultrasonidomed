@@ -279,7 +279,7 @@
 									</li>
 
 									<li class="URenal">
-											<p id="URenal" title="Ultrasonido renal">Examen seguro e indoloro en el cual se utilizan ondas sonoras para obtener imágenes de los riñones, los uréteres y la vejiga, pudiéndose valorar: el tamaño de los riñones, lesiones en los riñones, anomalías presentes desde el nacimiento, presencia de obstrucciones o piedras en los riñones, complicaciones de una infección del tracto urinario, quistes o tumores.
+											<p id="URenal" title="Ultrasonido renal">Examen seguro e indoloro, en el cual se utilizan ondas sonoras para obtener imágenes de los riñones, parte de los los uréteres y la vejiga, pudiéndose valorar: el tamaño de los riñones, lesiones en los riñones, anomalías presentes desde el nacimiento, presencia de obstrucciones o piedras en los riñones, complicaciones de una infección del tracto urinario, quistes o tumores.
 											</p>
 											<a href="#URenal" style="color:grey">
 												Ultrasonido renal
@@ -307,28 +307,28 @@
 									<li><h4>De alta especialidad:</h4></li>
 									<br>
 									<li class="U4d">
-											<p id="U4d" title="Ultrasonido 4D">Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo. Se pueden realizar en cualquier momento del embarazo aunque las mejores imágenes se obtienen entre las semanas 24 y 30 pues las condiciones son las más adecuadas.
+											<p id="U4d" title="Ultrasonido 4D">Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo. Se pueden realizar en cualquier momento del embarazo aunque las mejores imágenes se obtienen entre las semanas 28 y 30 pues las condiciones son las más adecuadas.
 											</p>
 											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido 4D
 											</a>
 									</li>
 									<li class="UDoppler">
-											<p id="UDoppler" title="Ultrasonido doppler">Estudio a color que permite medir flujos sanguíneos tanto arteriales como venosos.
+											<p id="UDoppler" title="Ultrasonido Doppler">Estudio en escala de grises o a color que permite medir flujos sanguíneos, tanto arteriales como venosos.
 											</p>
 											<a href="#UDoppler" style="color:grey">
 												Ultrasonido doppler
 											</a>
 									</li>
 									<li class="UMusculo">
-											<p id="UMusculo" title="Ultrasonido músculo esquelético">Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral. Pudiendo valorar alteraciones tales como: desgaste articular, tendinitis, bursitis, rupturas musculares y/o tendinosas, hemorragias, compresión de algún nervio, etc.
+											<p id="UMusculo" title="Ultrasonido músculo esquelético">Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar a un diagnóstico integral. Pudiendo valorar alteraciones tales como: desgaste articular, tendinitis, bursitis, rupturas musculares y/o tendinosas, hemorragias, compresión de algún nervio, etc.
 											</p>
 											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
 												Ultrasonido músculo esquelético
 											</a>
 									</li>
 									<li class="UPerfil">
-											<p id="UPerfil" title="Perfil biofísico fetal (PBF)">Un perfil biofísico es un examen médico que combina una prueba sin estrés con una ecografía para controlar la salud del feto. Una prueba sin estrés mide la frecuencia cardíaca fetal en respuesta a los movimientos del feto.Por lo general, la prueba del perfil biofísico se lleva a cabo en el último trimestre del embarazo bajo indicaciones específicas por parte del gineco-obstetra. El PBF consta de cinco partes: prueba sin estrés, movimientos respiratorios fetales, movimientos fetales, tono fetal, volumen líquido amniótico.
+											<p id="UPerfil" title="Perfil biofísico fetal (PBF)">Un perfil biofísico (PBF) es un examen médico que combina una prueba sin estrés con una ecografía para controlar la salud del feto. Una prueba sin estrés mide la frecuencia cardíaca fetal en respuesta a los movimientos del feto. Por lo general, la prueba del perfil biofísico se lleva a cabo en el último trimestre del embarazo bajo indicaciones específicas por parte del gineco-obstetra. El PBF consta de cinco partes: prueba sin estrés, movimientos respiratorios fetales, movimientos fetales, tono fetal, volumen líquido amniótico.
 											</p>
 											<a href="#UPerfil" style="color:grey">
 												Perfil biofísico fetal
@@ -358,7 +358,7 @@
 								¿Qué es el ultrasonido?
 							</h1>
 							<p>
- 							  <h5 class="text-white"> El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano como corazón, vasos sanguineos, riñones, hígado así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé. </h5>
+ 							  <h5 class="text-white"> El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano, como: corazón, vasos sanguineos, riñones, hígado, así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé. </h5>
 								<!-- El ultrasonido es un estudio 100% seguro que, al contrario de los rayos X, no expone al paciente a radiaciones. Durante el estudio, el doctor explorara el órgano interesado con un aditamento llamado transductor. El transductor envía ondas sonoras que llegan a los tejidos del cuerpo y captura las ondas que regresan. El equipo de ultrasonido crea imágenes del órgano estudiado basado en las ondas que recibe por medio del transductor. -->
 							</p>
 							<!-- <div class="row no-gutters">
@@ -618,7 +618,7 @@
 								<div class="details">
 									<h4>Médico certificado</h4>
 									<p>
-										Médico certificado por ICEAF.
+										Médico certificado por International Certification and Education Accreditation Foundation (ICEAF).
 									</p>
 								</div>
 							</div>
