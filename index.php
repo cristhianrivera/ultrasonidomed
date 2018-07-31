@@ -237,12 +237,12 @@
 											</a>
 									</li>
 
-									<li class="UGinecologico">
+									<li class="UGinecologico" >
 											<p id="UGinecologico" title="Ultrasonido ginecológico">
 												Estudio que permite visualizar órganos pélvicos como: útero, ovarios, endometrio, trompas de Falopio y vejiga.
 											</p>
 											<a href="#UGinecologico" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido ginecológico
+											<b>	Ultrasonido ginecológico </b>
 											</a>
 									</li>
 
@@ -258,7 +258,7 @@
 											<p id="UObstetrico" title="Ultrasonido obstétrico" >Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
 											</p>
 											<a href="#UObstetrico" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido obstétrico
+											<b>	Ultrasonido obstétrico </b>
 											</a>
 									</li>
 
@@ -274,7 +274,7 @@
 											<p id="UProstatico" title="Ultrasonido prostático">Estudio que visualiza la glándula prostática, de alto valor diagnóstico en enfermedades tales como: Quistes, hiperplasia prostática benigna (HPB), carcinoma de próstata, prostatitis, vesículas seminales agrandadas, entre otras. Se realiza por vía transabdominal y transrectal dependiendo de las indicaciones del médico.
 											</p>
 											<a href="#UProstatico" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido prostático
+											<b>	Ultrasonido prostático </b>
 											</a>
 									</li>
 
@@ -290,7 +290,7 @@
 											<p id="UTesticular" title="Ultrasonido testicular">Procedimiento para examinar los testículos y otras estructuras del escroto, ayudando a determinar diferentes patologías, siendo las causas más frecuentes, agrandamiento testicular y/o dolor testicular.
 											</p>
 											<a href="#UTesticular" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido testicular
+											<b>	Ultrasonido testicular </b>
 											</a>
 									</li>
 
@@ -310,7 +310,7 @@
 											<p id="U4d" title="Ultrasonido 4D">Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo. Se pueden realizar en cualquier momento del embarazo aunque las mejores imágenes se obtienen entre las semanas 28 y 30 pues las condiciones son las más adecuadas.
 											</p>
 											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido 4D
+											<b>	Ultrasonido 4D </b>
 											</a>
 									</li>
 									<li class="UDoppler">
@@ -324,7 +324,7 @@
 											<p id="UMusculo" title="Ultrasonido músculo esquelético">Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar a un diagnóstico integral. Pudiendo valorar alteraciones tales como: desgaste articular, tendinitis, bursitis, rupturas musculares y/o tendinosas, hemorragias, compresión de algún nervio, etc.
 											</p>
 											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
-												Ultrasonido músculo esquelético
+											<b>	Ultrasonido músculo esquelético </b>
 											</a>
 									</li>
 									<li class="UPerfil">
@@ -338,7 +338,7 @@
 											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">La ecografía vascular utiliza ondas sonoras para evaluar el sistema circulatorio del cuerpo y ayudar a identificar bloqueos en las arterias y venas; pudiendo visualizar patologías como: ateromas, coágulos, aneurismas entre otras.
 											</p>
 											<a href="#UPerfilVascular" style="color:rgba(122,122,122,0.7)">
-												Perfil vascular (venas/arterias)
+											<b>	Perfil vascular (venas/arterias) </b>
 											</a>
 									</li>
 								</ul>
