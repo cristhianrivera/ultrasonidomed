@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>jQuery UI Dialog - Default functionality</title>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <link rel="stylesheet" href="css/main.css">
 
   <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
@@ -30,6 +30,7 @@
 
 
   <p id="testimonialOpen">This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.
+    <img src="img/logo.png" alt="myimage" />
   </p>
 
 
