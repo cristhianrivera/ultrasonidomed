@@ -30,7 +30,7 @@
 
 
   <p id="testimonialOpen">This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.
-    <img src="img/logo.png" alt="myimage" />
+    <img src="imagesEstudios/GinecoFrame.png" alt="myimage" />
   </p>
 
 
