@@ -73,28 +73,15 @@
 				          <li><a href="#Estudios">Estudios</a></li>
 				          <li><a href="#Nosotros">Nosotros</a></li>
 				          <li><a href="#Contacto">Contacto</a></li>
-				          <!-- <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-					          <li class="menu-has-children"><a href="">Level 2</a>
-					            <ul>
-					              <li><a href="#">Item One</a></li>
-					              <li><a href="#">Item Two</a></li>
-					            </ul>
-					          </li>
-				            </ul>
-				          </li> -->
-				          <!-- <li><a href="pricing.html">Pricing</a></li>
-				          <li><a href="elements.html">Elements</a></li> -->
-				          <!-- <li><a href="contact.html">Contacto</a></li> -->
+									<li class="menu-has-children"><a href="">Blog</a>
+										<ul>
+											<li><a href="/blog-como-funciona-ultrasonido.html">¿Cómo se generan imágenes a través del ultrasonido?</a></li>
+										</ul>
+									</li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->
-			      	<!-- <div class="menu-social-icons">
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-dribbble"></i></a>
-						<a href="#"><i class="fa fa-behance"></i></a>
+			    <!-- <div class="menu-social-icons">
+						<a href="https://www.facebook.com/ultrasonidomed"><i class="fa fa-facebook"></i></a>
 					</div> -->
 			    	</div>
 			    </div>
@@ -130,33 +117,6 @@
 				</div>
 			</section>
 			<!-- End banner Area -->
-
-			<!-- Start open-hour Area -->
-			<!-- <section class="open-hour-area">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-lg-12 open-hour-wrap">
-							<h1>Horarios de servicio</h1>
-
-							<div class="date-list d-flex flex-row justify-content-center">
-								<ul class="colm-1">
-									<li>Lunes - Viernes</li>
-									<li>Sábado</li>
-									<li>Domingo</li>
-								</ul>
-								<ul class="colm-2">
-									<li><span>:</span>   02:00pm to 07:00pm</li>
-									<li><span>:</span>   09:00am to 04:00pm</li>
-									<li><span>:</span>   Cerrado</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
-			<!-- End open-hour Area -->
-
-
 			<!-- Start service Area -->
 			<section id="Estudios" class="service-area section-gap">
 				<div class="container">
@@ -176,15 +136,6 @@
 								<p>
 									Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral.
 								</p>
-								<!-- <div class="alert alert-warning alert-dismissible fade show" role="alert">
-								  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-								    <span aria-hidden="true">&times;</span>
-								  </button>
-								  <strong>Holy guacamole!</strong> You should check in on some of those fields below.
-								</div> -->
-
-
-
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
@@ -383,49 +334,14 @@
 							</h1>
 							<p>
  							  <h5 class="text-white"> El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano, como: corazón, vasos sanguineos, riñones, hígado, así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé. </h5>
-								<!-- El ultrasonido es un estudio 100% seguro que, al contrario de los rayos X, no expone al paciente a radiaciones. Durante el estudio, el doctor explorara el órgano interesado con un aditamento llamado transductor. El transductor envía ondas sonoras que llegan a los tejidos del cuerpo y captura las ondas que regresan. El equipo de ultrasonido crea imágenes del órgano estudiado basado en las ondas que recibe por medio del transductor. -->
 							</p>
-							<!-- <div class="row no-gutters">
-								<div class="single-services col">
-									<span class="lnr lnr-diamond"></span>
-									<a href="#">
-										<h4 class="text-white">Expert Services</h4>
-									</a>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advancement of technology.
-									</p>
-								</div>
-								<div class="single-services col">
-									<span class="lnr lnr-phone"></span>
-									<a href="#">
-										<h4 class="text-white">Great Support</h4>
-									</a>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advancement of technology.
-									</p>
-								</div>
-							</div> -->
+
 						</div>
 					</div>
 				</div>
 			</section>
 			<!-- End home-about Area -->
-			<!-- <section class="open-hour-area">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-lg-12 open-hour-wrap">
-							<h1>El ultrasonido...</h1>
-							<br>
-							<h5>
-								En comparación con los estudios de Rayos-X, no expone a los pacientes a radiaciones.
-							</h5>
-							<div class="date-list d-flex flex-row justify-content-center">
 
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
 			<!-- Start testomial Area -->
 			<!-- <section class="testomial-area section-gap">
 				<div class="container">
@@ -535,67 +451,6 @@
 			</section> -->
 			<!-- End testomial Area -->
 
-			<!-- Start team Area -->
-		    <!-- <section class="team-area section-gap" id="team">
-		        <div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-8">
-		                    <div class="title text-center">
-		                        <h1 class="mb-10">Our Consultants</h1>
-		                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua.</p>
-		                    </div>
-		                </div>
-		            </div>
-		            <div class="row justify-content-center d-flex align-items-center">
-		                <div class="col-lg-3 col-md-6 single-team">
-		                    <div class="thumb">
-		                        <img class="img-fluid" src="img/t1.jpg" alt="">
-		                        <div class="align-items-end justify-content-center d-flex">
-		                            <p>
-		                            	inappropriate behavior
-		                            </p>
-		                            <h4>Andy Florence</h4>
-		                        </div>
-		                    </div>
-		                </div>
-		                <div class="col-lg-3 col-md-6 single-team">
-		                    <div class="thumb">
-		                        <img class="img-fluid" src="img/t2.jpg" alt="">
-		                        <div class="align-items-end justify-content-center d-flex">
-		                            <p>
-		                            	inappropriate behavior
-		                            </p>
-		                            <h4>Andy Florence</h4>
-		                        </div>
-		                    </div>
-		                </div>
-		                <div class="col-lg-3 col-md-6 single-team">
-		                    <div class="thumb">
-		                        <img class="img-fluid" src="img/t3.jpg" alt="">
-		                        <div class="align-items-end justify-content-center d-flex">
-		                            <p>
-		                            	inappropriate behavior
-		                            </p>
-		                            <h4>Andy Florence</h4>
-		                        </div>
-		                    </div>
-		                </div>
-		                <div class="col-lg-3 col-md-6 single-team">
-		                    <div class="thumb">
-		                        <img class="img-fluid" src="img/t4.jpg" alt="">
-		                        <div class="align-items-end justify-content-center d-flex">
-		                            <p>
-		                            	inappropriate behavior
-		                            </p>
-		                            <h4>Andy Florence</h4>
-		                        </div>
-		                    </div>
-		                </div>
-		            </div>
-		        </div>
-		    </section> -->
-		    <!-- End team Area -->
-
 			<!-- Start feature Area -->
 			<section id="Nosotros" class="feature-area section-gap">
 				<div class="container">
@@ -690,28 +545,6 @@
 				</div>
 			</section>
 			<!-- End feature Area -->
-<!-- ####################################### -->
-
-			<!-- <form name="contact">
-
-				<input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
-				<input name="Telefono" type="text" placeholder="Telefono">
-				<input name="Email" type="text" placeholder="Email">
-				<input name="Fecha" type="text" placeholder="Fecha">
-				<input name="Mensaje" type="text" placeholder="Mensaje">
-			  <button type="submit">Send</button>
-		  </form>
-		  <script>
-			 const scriptURL = 'https://script.google.com/macros/s/AKfycbzZJR8dP3IX2M2Kyngm7vzJeL3UcrBuItsEowCt9UDR5Vr82wyH/exec'
-		   const form = document.forms['contact']
-		   form.addEventListener('submit', e => {
-		    e.preventDefault()
-		    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-		     .then(response => console.log('Success!', response))
-		     .catch(error => console.error('Error!', error.message))
-		   })
-		  </script>
- -->
 
 <!-- ####################################### -->
 
@@ -723,31 +556,6 @@
 							<h1 class="text-white">
 								Realice una cita:
 							</h1>
-                <!-- <form name="contact" class="appoinment-form" id="myForm" action="#">
-                    <div class="row">
-                        <div class="col-lg-12 d-flex flex-column">
-                            <input name="Nombre" placeholder="Nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" type="text">
-                        </div>
-                        <div class="col-lg-6 d-flex flex-column">
-                            <input name="Telefono" placeholder="Telefono" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone'" class="form-control mt-20" required="" type="text">
-                        </div>
-                        <div class="col-lg-6 d-flex flex-column">
-                            <input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" class="form-control mt-20" required="" type="email">
-                        </div>
-                        <div class="col-lg-6 d-flex flex-column">
-                            <input name="Fecha" placeholder="Fecha" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de consulta" class="form-control mt-20" required="" type="text" id="datepicker2">
-                        </div>
-                        <div class="col-lg-12 flex-column">
-                            <textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
-                        </div>
-
-                        <div class="col-lg-12 d-flex justify-content-end send-btn">
-														<button type="submit" id="submit-form" class="primary-btn primary mt-20 text-uppercase ">Enviar</button>
-                        </div>
-
-                        <div class="alert-msg"></div>
-                    </div> -->
-
 								<form name="contact">
 
 											<input name="Nombre" placeholder="Nombre completo" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombre completo'" class="form-control mt-20" required="" type="text">
@@ -775,98 +583,10 @@
 			</section>
 			<!-- End appoinment Area -->
 
-			<!-- Start blog Area -->
-			<!-- <section class="blog-area section-gap" id="blog">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Latest From Our Blog</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua.</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b1.jpg" alt="">
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Addiction When Gambling
-							Becomes A Problem</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b2.jpg" alt="">
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Addiction When Gambling
-							Becomes A Problem</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b3.jpg" alt="">
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Addiction When Gambling
-							Becomes A Problem</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b4.jpg" alt="">
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Addiction When Gambling
-							Becomes A Problem</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
-			<!-- End blog Area -->
-
 			<!-- start footer Area -->
 			<footer class="footer-area section-gap">
 				<div class="container">
 					<div class="row">
-						<!-- <div class="col-lg-2  col-md-6">
-							<div class="single-footer-widget">
-								<h6>Top Products</h6>
-								<ul class="footer-nav">
-									<li><a href="#">Managed Website</a></li>
-									<li><a href="#">Manage Reputation</a></li>
-									<li><a href="#">Power Tools</a></li>
-									<li><a href="#">Marketing Service</a></li>
-								</ul>
-							</div>
-						</div> -->
 						<div class="col-lg-4  col-md-6">
 							<div class="single-footer-widget mail-chimp">
 								<h6 class="mb-20">Dirección:</h6>
@@ -898,26 +618,6 @@
 								<br>
 								<p class="mb-20">Aceptamos tarjetas de crédito y débito.<p>
 
-
-								<!-- <p>You can trust us. we only send promo offers, not a single spam.</p>
-								<div id="mc_embed_signup">
-									<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
-
-										<div class="form-group row" style="width: 100%">
-											<div class="col-lg-8 col-md-12">
-												<input name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" required="" type="email">
-												<div style="position: absolute; left: -5000px;">
-													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-												</div>
-											</div>
-
-											<div class="col-lg-4 col-md-12">
-												<button class="nw-btn primary-btn">Subscribe<span class="lnr lnr-arrow-right"></span></button>
-											</div>
-										</div>
-										<div class="info"></div>
-									</form>
-								</div> -->
 							</div>
 						</div>
 					</div>
@@ -928,9 +628,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 						<div class="col-lg-4 col-sm-12 footer-social">
 							<a href="https://www.facebook.com/ultrasonidomed" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
-							<!-- <a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a> -->
+
 						</div>
 					</div>
 				</div>
