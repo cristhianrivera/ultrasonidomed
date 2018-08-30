@@ -157,7 +157,7 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/pregnancy.jpg" alt="">
+								<img class="img-fluid" src="img/pregnancyNew.jpg" alt="">
 								<a ><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
 									Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
