@@ -582,7 +582,6 @@
 											<textarea  rows="5" class="form-control mt-20" name="Mensaje" placeholder="Mensaje" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Mensaje'" required=""></textarea>
 											<button type="submit" class="primary-btn primary mt-20 text-uppercase " onclick="myFunction()" >Enviar</button>
 									  </form>
-                </form>
 								<script>
 								 const scriptURL = 'https://script.google.com/macros/s/AKfycbzZJR8dP3IX2M2Kyngm7vzJeL3UcrBuItsEowCt9UDR5Vr82wyH/exec'
 								 const form = document.forms['contact']
