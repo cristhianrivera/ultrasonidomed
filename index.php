@@ -73,11 +73,12 @@
 				          <li><a href="#Estudios">Estudios</a></li>
 				          <li><a href="#Nosotros">Nosotros</a></li>
 				          <li><a href="#Contacto">Contacto</a></li>
-									<li class="menu-has-children"><a href="">Blog</a>
-										<ul>
-											<li><a href="/blog-como-funciona-ultrasonido.html">¿Cómo se generan imágenes a través del ultrasonido?</a></li>
-										</ul>
-									</li>
+					  <li><a href="/blog-como-funciona-ultrasonido.html">¿Cómo se generan imágenes a través del ultrasonido?</a></li>
+					  <!--<li class="menu-has-children"><a href="">Blog</a>
+						<ul>
+							<li><a href="/blog-como-funciona-ultrasonido.html">¿Cómo se generan imágenes a través del ultrasonido?</a></li>
+						</ul>
+					  </li> -->
 				        </ul>
 				      </nav><!-- #nav-menu-container -->
 			    <!-- <div class="menu-social-icons">
@@ -602,7 +603,7 @@
 			<!-- End appoinment Area -->
 
 			<!-- start footer Area -->
-			<footer class="footer-area section-gap">
+			<footer id='Contacto' class="footer-area section-gap">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4  col-md-6">
