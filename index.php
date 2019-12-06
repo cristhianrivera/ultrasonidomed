@@ -567,7 +567,7 @@
 <!-- ####################################### -->
 
 			<!-- Start appoinment Area -->
-		<!-- 
+
 			<section id="Contacto" class="appoinment-area section-gap relative">
 				<div class="container">
 					<div class="row align-items-center justify-content-end">
@@ -576,7 +576,6 @@
 								Realice una cita:
 							</h1>
 								<form name="contact">
-
 											<input name="Nombre" placeholder="Nombre completo" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nombre completo'" class="form-control mt-20" required="" type="text">
 											<input name="Telefono" placeholder="Teléfono a 10 dígitos" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Teléfono a 10 dígitos'" class="form-control mt-20" required="" type="text">
 											<input name="Email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" class="form-control mt-20" type="email">
@@ -599,7 +598,7 @@
 					</div>
 				</div>
 			</section>
--->
+
 			<!-- End appoinment Area -->
 
 			<!-- start footer Area -->
