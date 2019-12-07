@@ -18,9 +18,9 @@
 		<!-- Author Meta -->
 		<meta name="author" content="CRJR">
 		<!-- Meta Description -->
-		<meta name="description" content="Ultrasonido medico diagnostico en la Ciudad de Mexico.">
+		<meta name="description" content="Ultrasonido médico diagnostico en la Ciudad de Mexico.">
 		<!-- Meta Keyword -->
-		<meta name="keywords" content="ultrasonido, ultrasonido medico, ultrasonido obstetrico, ultrasonido 4d, ultrasonido doppler, ultrasonido abdominal">
+		<meta name="keywords" content="ultrasonido, ultrasonido medico, ultrasonido obstetrico, ultrasonido 4d, ultrasonido doppler, ultrasonido abdominal, ecografía, ultrasonido en ciudad de méxico">
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
@@ -120,7 +120,8 @@
 							<br>
 							<br>
 							<h7 class="text-white mx-auto">
-								Más de 25 años de experiencia nos respaldan.
+								Estudios de ultrasonido médico con equipo de última generación en la Ciudad de México. <br>
+								<!-- Más de 25 años de experiencia nos respaldan. -->
 							</h7>
 							<br>
 							<br>
