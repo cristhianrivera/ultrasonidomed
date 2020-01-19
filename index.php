@@ -150,7 +150,7 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/HumanBody.jpg" alt="">
+								<img class="img-fluid" src="img/HumanBody_best.jpg" alt="">
 								<a ><h4>Ultrasonido músculo esquelético</h4></a>
 								<p>
 									Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar un diagnóstico integral.
@@ -159,7 +159,7 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/pregnancyNew.jpg" alt="">
+								<img class="img-fluid" src="img/pregnancyNew_best.jpg" alt="">
 								<a ><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
 									Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
@@ -168,7 +168,7 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/transductorModified.jpg" alt="">
+								<img class="img-fluid" src="img/transductorModified_best.jpg" alt="">
 								<a ><h4>Ultrasonido Abdominal</h4></a>
 								<p>
 									Estudio que valora órganos intraabdominales, (hígado, páncreas, vesícula biliar, bazo etc.)  siendo un auxiliar diagnóstico de gran utilidad para el clínico.
@@ -177,7 +177,7 @@
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-service">
-								<img class="img-fluid" src="img/Doppler.jpg" alt="">
+								<img class="img-fluid" src="img/Doppler_best.jpg" alt="">
 								<a ><h4>Ultrasonido Tiroideo</h4></a>
 								<p>
 									Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
@@ -202,7 +202,7 @@
 									<li class="UAbdominal">
 											<p id="UAbdominal" title="Ultrasonido abdominal">Estudio que valora órganos intraabdominales, (hígado, páncreas, vesícula biliar, bazo etc.)  siendo un auxiliar diagnóstico de gran utilidad para el médico.
 													<br>
-													<img src="img/AbdominalFrame.png" alt="myimage" class="centerImg" />
+													<img src="img/AbdominalFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UAbdominal" style="color:grey">
 												Ultrasonido abdominal
@@ -213,7 +213,7 @@
 											<p id="UGinecologico" title="Ultrasonido ginecológico">
 												Estudio que permite visualizar órganos pélvicos como: útero, ovarios, endometrio, trompas de Falopio y vejiga.
 												<br>
-												<img src="img/GinecoFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/GinecoFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UGinecologico" style="color:rgba(122,122,122,0.7)">
 											<b>	Ultrasonido ginecológico </b>
@@ -223,7 +223,7 @@
 									<li class="UMama">
 											<p id="UMama" title="Ultrasonido de mama" >Estudio que a diferencia de la mastografía no emite radiación ionizante en su realización, sin embargo, es complemento cuando hay alguna alteración del tejido mamario. ¡Recuerda que no toda tumoración es cáncer!
 												<br>
-												<img src="img/MamaFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/MamaFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UMama" style="color:grey">
 												Ultrasonido de mama
@@ -233,7 +233,7 @@
 									<li class="UObstetrico">
 											<p id="UObstetrico" title="Ultrasonido obstétrico" >Procedimiento enfocado al seguimiento y desarrollo del feto en el útero materno. Siendo 100% seguro y no invasivo tanto para la madre como para el bebé.
 												<br>
-												<img src="img/ObstetricoFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/ObstetricoFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UObstetrico" style="color:rgba(122,122,122,0.7)">
 											<b>	Ultrasonido obstétrico </b>
@@ -243,7 +243,7 @@
 									<li class="UBlandas">
 											<p id="UBlandas" title="Ultrasonido de partes blandas">Ecografía que valora la piel, el tejido celular subcutáneo (grasa), tejidos de soporte en extremidades, pared abdominal y cuello.
 												<br>
-												<img src="img/BlandasFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/BlandasFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UBlandas" style="color:grey">
 												Ultrasonido de partes blandas
@@ -261,7 +261,7 @@
 									<li class="URenal">
 											<p id="URenal" title="Ultrasonido renal">Examen seguro e indoloro, en el cual se utilizan ondas sonoras para obtener imágenes de los riñones, parte de los los uréteres y la vejiga, pudiéndose valorar: el tamaño de los riñones, lesiones en los riñones, anomalías presentes desde el nacimiento, presencia de obstrucciones o piedras en los riñones, complicaciones de una infección del tracto urinario, quistes o tumores.
 												<br>
-												<img src="img/RenalFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/RenalFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#URenal" style="color:grey">
 												Ultrasonido renal
@@ -271,7 +271,7 @@
 									<li class="UTesticular">
 											<p id="UTesticular" title="Ultrasonido testicular">Procedimiento para examinar los testículos y otras estructuras del escroto, ayudando a determinar diferentes patologías, siendo las causas más frecuentes, agrandamiento testicular y/o dolor testicular.
 												<br>
-												<img src="img/TesticularFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/TesticularFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UTesticular" style="color:rgba(122,122,122,0.7)">
 											<b>	Ultrasonido testicular </b>
@@ -281,7 +281,7 @@
 									<li class="UTiroideo">
 											<p id="UTiroideo" title="Ultrasonido tiroideo">Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.
 												<br>
-												<img src="img/TiroidesFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/TiroidesFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UTiroideo" style="color:grey">
 												Ultrasonido tiroideo
@@ -295,7 +295,7 @@
 									<li class="U4d">
 											<p id="U4d" title="Ultrasonido 4D">Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo. Se pueden realizar en cualquier momento del embarazo aunque las mejores imágenes se obtienen entre las semanas 28 y 30 pues las condiciones son las más adecuadas.
 												<br>
-												<img src="img/4dFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/4dFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
 											<b>	Ultrasonido 4D </b>
@@ -304,7 +304,7 @@
 									<li class="UDoppler">
 											<p id="UDoppler" title="Ultrasonido Doppler">Estudio en escala de grises o a color que permite medir flujos sanguíneos, tanto arteriales como venosos.
 												<br>
-												<img src="img/DopplerFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/DopplerFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UDoppler" style="color:grey">
 												Ultrasonido doppler
@@ -313,7 +313,7 @@
 									<li class="UMusculo">
 											<p id="UMusculo" title="Ultrasonido músculo esquelético">Estudio realizado con equipo de alta definición que permite valorar el estado de los músculos, articulaciones, tendones y ligamentos con el objetivo de llegar a un diagnóstico integral. Pudiendo valorar alteraciones tales como: desgaste articular, tendinitis, bursitis, rupturas musculares y/o tendinosas, hemorragias, compresión de algún nervio, etc.
 												<br>
-												<img src="img/MusculoEsFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/MusculoEsFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
 											<b>	Ultrasonido músculo esquelético </b>
@@ -329,7 +329,7 @@
 									<li class="UPerfilVascular">
 											<p id="UPerfilVascular" title="Perfil vascular (venas/arterias)">La ecografía vascular utiliza ondas sonoras para evaluar el sistema circulatorio del cuerpo y ayudar a identificar bloqueos en las arterias y venas; pudiendo visualizar patologías como: ateromas, coágulos, aneurismas entre otras.
 												<br>
-												<img src="img/VascularFrame.png" alt="myimage" class="centerImg" />
+												<img src="img/VascularFrame.jpg" alt="myimage" class="centerImg" />
 											</p>
 											<a href="#UPerfilVascular" style="color:rgba(122,122,122,0.7)">
 											<b>	Perfil vascular (venas/arterias) </b>
