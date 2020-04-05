@@ -157,7 +157,7 @@
 								<picture>
 								  <source type="image/webp" srcset="img/HumanBody_best.webp">
 								  <source type="image/jpeg" srcset="img/HumanBody_best.jpg">
-								  <img class="img-fluid" src="img/HumanBody_best.jpg">
+								  <img alt="HumanBody" class="img-fluid" src="img/HumanBody_best.jpg">
 								</picture>
 
 								<a ><h4>Ultrasonido músculo esquelético</h4></a>
@@ -172,7 +172,7 @@
 								<picture>
 									<source type="image/webp" srcset="img/pregnancyNew_best.webp">
 									<source type="image/jpeg" srcset="img/pregnancyNew_best.jpg">
-									<img class="img-fluid" src="img/pregnancyNew_best.jpg">
+									<img alt="Embarazo" class="img-fluid" src="img/pregnancyNew_best.jpg">
 								</picture>
 								<a ><h4>Ultrasonido Obstétrico</h4></a>
 								<p>
@@ -186,7 +186,7 @@
 								<picture>
 									<source type="image/webp" srcset="img/transductorModified_best.webp">
 									<source type="image/jpeg" srcset="img/transductorModified_best.jpg">
-									<img class="img-fluid" src="img/transductorModified_best.jpg">
+									<img alt="Transductor4D" class="img-fluid" src="img/transductorModified_best.jpg">
 								</picture>
 								<a ><h4>Ultrasonido Abdominal</h4></a>
 								<p>
@@ -200,7 +200,7 @@
 								<picture>
 									<source type="image/webp" srcset="img/Doppler_best.webp">
 									<source type="image/jpeg" srcset="img/Doppler_best.jpg">
-									<img class="img-fluid" src="img/Doppler_best.jpg">
+									<img alt="Doppler" class="img-fluid" src="img/Doppler_best.jpg">
 								</picture>
 								<a ><h4>Ultrasonido Tiroideo</h4></a>
 								<p>
@@ -230,7 +230,7 @@
 													<picture>
 														<source type="image/webp" srcset="img/AbdominalFrame.webp">
 														<source type="image/jpeg" srcset="img/AbdominalFrame.jpg">
-														<img alt="myimage" class="centerImg" src="img/AbdominalFrame.jpg">
+														<img alt="Ultrasonido Abdominal" class="centerImg" src="img/AbdominalFrame.jpg">
 													</picture>
 											</p>
 											<a href="#UAbdominal" style="color:grey">
@@ -246,7 +246,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/GinecoFrame.webp">
 													<source type="image/jpeg" srcset="img/GinecoFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/GinecoFrame.jpg">
+													<img alt="Ultrasonido Ginecologico" class="centerImg" src="img/GinecoFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UGinecologico" style="color:rgba(122,122,122,0.7)">
@@ -261,7 +261,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/MamaFrame.webp">
 													<source type="image/jpeg" srcset="img/MamaFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/MamaFrame.jpg">
+													<img alt="Ultrasonido Mamario" class="centerImg" src="img/MamaFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UMama" style="color:grey">
@@ -276,7 +276,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/ObstetricoFrame.webp">
 													<source type="image/jpeg" srcset="img/ObstetricoFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/ObstetricoFrame.jpg">
+													<img alt="Ultrasonido Obstetrico" class="centerImg" src="img/ObstetricoFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UObstetrico" style="color:rgba(122,122,122,0.7)">
@@ -291,7 +291,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/BlandasFrame.webp">
 													<source type="image/jpeg" srcset="img/BlandasFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/BlandasFrame.jpg">
+													<img alt="Ultrasonido zonas blandas" class="centerImg" src="img/BlandasFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UBlandas" style="color:grey">
@@ -314,7 +314,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/RenalFrame.webp">
 													<source type="image/jpeg" srcset="img/RenalFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/RenalFrame.jpg">
+													<img alt="Ultrasonido Renal" class="centerImg" src="img/RenalFrame.jpg">
 												</picture>
 											</p>
 											<a href="#URenal" style="color:grey">
@@ -329,7 +329,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/TesticularFrame.webp">
 													<source type="image/jpeg" srcset="img/TesticularFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/TesticularFrame.jpg">
+													<img alt="Ultrasonido Renal" class="centerImg" src="img/TesticularFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UTesticular" style="color:rgba(122,122,122,0.7)">
@@ -344,7 +344,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/TiroidesFrame.webp">
 													<source type="image/jpeg" srcset="img/TiroidesFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/TiroidesFrame.jpg">
+													<img alt="Ultrasonido tiroides" class="centerImg" src="img/TiroidesFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UTiroideo" style="color:grey">
@@ -363,7 +363,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/4dFrame.webp">
 													<source type="image/jpeg" srcset="img/4dFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/4dFrame.jpg">
+													<img alt="Ultrasonido 4D" class="centerImg" src="img/4dFrame.jpg">
 												</picture>
 											</p>
 											<a href="#U4d" style="color:rgba(122,122,122,0.7)">
@@ -377,7 +377,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/DopplerFrame.webp">
 													<source type="image/jpeg" srcset="img/DopplerFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/DopplerFrame.jpg">
+													<img alt="Ultrasonido Doppler" class="centerImg" src="img/DopplerFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UDoppler" style="color:grey">
@@ -391,7 +391,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/MusculoEsFrame.webp">
 													<source type="image/jpeg" srcset="img/MusculoEsFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/MusculoEsFrame.jpg">
+													<img alt="Ultrasonido musculo esqueletico" class="centerImg" src="img/MusculoEsFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UMusculo" style="color:rgba(122,122,122,0.7)">
@@ -412,7 +412,7 @@
 												<picture>
 													<source type="image/webp" srcset="img/VascularFrame.webp">
 													<source type="image/jpeg" srcset="img/VascularFrame.jpg">
-													<img alt="myimage" class="centerImg" src="img/VascularFrame.jpg">
+													<img alt="Ultrasonido vesicular" class="centerImg" src="img/VascularFrame.jpg">
 												</picture>
 											</p>
 											<a href="#UPerfilVascular" style="color:rgba(122,122,122,0.7)">
