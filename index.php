@@ -4,6 +4,7 @@
 	<head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109100491-2"></script>
+	<meta name="google-site-verification" content="D5Ssbjg6-tQpaAs95VusGMUaDQoyVzNmKPa7IYCpvAU" />
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
